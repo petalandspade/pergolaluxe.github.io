@@ -1,0 +1,300 @@
+html{
+    background-color: #27374D;
+}
+
+h1{
+    color: #DDE6ED;
+    text-align: center;
+}
+
+h2{
+    color: #9DB2BF
+}
+
+p{
+    color: #DDE6ED;
+}
+
+.main-header > div {
+    display: inline-block;
+}
+
+.main-header__brand {
+    font-family: "raleway", sans-serif;
+    color: #9DB2BF;
+    font-size: 2rem;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.main-header__brand img {
+    height: 16rem;
+}
+
+.main-nav {
+    display: inline-block;
+    text-align: right; 
+    width: calc(100% - 74px);
+    vertical-align: middle;
+}
+
+.main-nav__items {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: "raleway", sans-serif;
+    vertical-align: text-top;
+}
+
+.main-nav__item {
+    display: inline-block;
+    margin: 0 1.25rem;
+    font-size: 2.5rem;
+}
+
+.main-nav__item a {
+    text-decoration: none;
+    color: #9DB2BF;
+}
+
+.main-nav__item a:hover {
+    color: white;
+}
+
+.main-nav__item a:active {
+    color: white;
+}
+
+.main-nav__item--cta {
+    background: white;
+    padding: .5rem;
+    border-radius: .5rem;
+}
+
+.main-nav__item--cta a:hover {
+    color: #27374D;
+}
+
+.main-header > div {
+    display: inline-block;
+}
+
+
+.main-header__brand img {
+    height: 16rem;
+}
+
+
+.main-nav__item {
+    display: inline-block;
+    margin: 0 1.25rem;
+    font-size: 2.5rem;
+}
+
+.main-nav__item a {
+    text-decoration: none;
+    color: #9DB2BF;
+}
+
+.main-nav__item a:hover {
+    color: white;
+}
+
+.main-nav__item a:active {
+    color: white;
+}
+
+.main-nav__item--cta {
+    background: white;
+    padding: .5rem;
+    border-radius: .5rem;
+}
+
+.main-nav__item--cta a:hover {
+  color: #27374D;
+}
+
+
+.article-title {
+    font-family: "Bodoni Moda", serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 4rem;
+    text-align: center;
+}
+
+.basic-paragraph {
+    font-family: "raleway";
+    font-size: 2rem;
+    padding: 1.8rem;
+    margin: 0 6.5rem;
+}
+
+.first-image {
+    font-size: 1.25rem;
+    margin: 2rem 3rem;
+  }
+
+.first-image-container {
+        width: 55%;
+        display: inline-block;
+        vertical-align: middle;
+        box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
+        margin-left: 5.6rem;
+}
+
+.image-one {
+    width: 100%;
+    vertical-align: top;
+}
+
+.first-image-container-info {
+    text-align: right;
+    padding: .9rem;
+    display: inline-block;
+    vertical-align: middle;
+    width: 35%;
+  }
+
+  .second-paragraph {
+    font-family: "raleway";
+    font-size: 2rem;
+    padding: .6rem;
+    margin: 4.3rem;
+  }
+
+  .h2-title {
+    font-family: "raleway";
+    font-weight: bold;
+    font-size: 3.2rem;
+    padding: .6rem;
+    margin: 3rem 5.6rem;
+  }
+
+  .top-list-container {
+    margin: 2rem 5.6rem;
+  }
+
+  li {
+    color:#DDE6ED;
+    font-size: 2rem;
+    font-family: "raleyway";
+    margin-left: 5.6rem;
+    padding: .5rem 0;
+  }
+
+  .top-ten-list {
+    font-family: "raleway";
+  }
+
+  .h3-list-item {
+    font-family: "raleway";
+    font-weight: bold;
+    font-size: 3.2rem;
+    padding: .62rem;
+    margin: 5.6rem 7.4rem;
+    color: #9DB2BF;
+    margin-bottom: 0px;
+    text-decoration: underline;
+  }
+
+
+  /*.first-choice-div-pros {
+    font-size: 20px;
+    margin: 48px 0;
+  }*/
+
+  .purple-leaf-info {
+    margin-top: 0px;
+  }
+
+  .purple-leaf-info-container {
+    text-align: left;
+    padding: 1.25rem;
+    display: inline-block;
+    vertical-align: middle;
+    width: 45%;
+    margin-left: 0 6.5rem;
+  }
+
+  .purple-leaf-photo-container {
+    width: 45%;
+    display: inline-block;
+    vertical-align: middle;
+    box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
+    margin-right: .62rem;
+    margin-top: 1rem;
+  }
+
+  .purple-leaf-photo {
+    width: 100%;
+    vertical-align: top;
+  }
+
+  .purpleleafprice {
+    font-size: 3rem;
+    color: #DDE6ED;
+    Font-family: "bodoni moda";
+    margin-left: 6.5rem;
+  }
+
+  .list-title-container {
+    margin: 0 5rem;
+  }
+
+  .list-titles {
+    font-size: 2.7rem;
+    color: #9DB2BF;
+    font-family: "raleway", bold;
+    
+  }
+
+  .purple-leaf-list {
+    font-size: 2rem;
+    font-family: "raleway";
+    color: #DDE6ED;
+  }
+
+  .backyard-discovery-info-container {
+    text-align: left;
+    padding: 1.25rem;
+    display: inline-block;
+    vertical-align: middle;
+    width: 45%;
+    /*margin-left: 5.6rem;*/
+  }
+
+  .backyard-discovery-photo-container {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
+    margin: 1rem 8rem;
+  }
+
+  .backyard-discovery-photo {
+    width: 100%;
+    vertical-align: top;
+  }
+
+  .backyarddiscoveryprice {
+    font-size: 3rem;
+    color: #DDE6ED;
+    Font-family: "bodoni moda";
+  }
+
+  .backyard-discovery-list {
+    font-size: 2rem;
+    font-family: "raleway";
+    color: #DDE6ED;
+  }
+
+ .faq {
+    font-family: "raleway";
+    font-size: 2rem;
+    padding: .5rem;
+    margin: 5.6rem;
+    color: #9DB2BF;
+    margin-bottom: 0px;
+    text-decoration: underline;
+ }
