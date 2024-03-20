@@ -30,9 +30,6 @@ p{
     #main-logo {
         font-size: 2rem;
     }
-    /*.section-title h2 {
-        font-size: 1rem;
-    }*/
 }
 
 .section-title h2 {
@@ -41,6 +38,9 @@ p{
   font-style: normal;
   font-weight: lighter;
   text-align: center;
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
 }
 
 .main-header > div {
@@ -52,7 +52,7 @@ p{
     color: #9DB2BF;
     font-size: 2rem;
     text-decoration: none;
-    margin: 0 20px;
+    margin: 0 1rem;
 }
 
 .main-header__brand img {
@@ -62,7 +62,7 @@ p{
 .main-nav {
     display: inline-block;
     text-align: right; 
-    width: calc(100% - 74px);
+    width: calc(100% - 5rem);
     vertical-align: middle;
 }
 
