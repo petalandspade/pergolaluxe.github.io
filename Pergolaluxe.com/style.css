@@ -22,6 +22,8 @@ p{
     font-size: 4rem;
     margin-top: 0rem;
     margin-bottom: 0rem;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 @media (min-width: 40rem) {
