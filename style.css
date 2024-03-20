@@ -27,13 +27,13 @@ p{
         font-size: 2rem;
     }
     .section-title h2 {
-        font-size: .7 rem;
+        font-size: 1rem;
     }
 }
 
 .section-title h2 {
   font-family: "Raleway", sans-serif;
-  font-size: 3 rem;
+  font-size: 3rem;
   font-style: normal;
   font-weight: lighter;
   text-align: center;
@@ -104,7 +104,7 @@ p{
     background-image: url("images/springpergola.png");
     background-size: 100%;
     width: 75rem;
-    height: 50rem;
+    height: 45rem;
     padding: 0px;
     margin: auto;
     background-repeat: no-repeat;
