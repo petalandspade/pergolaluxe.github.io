@@ -106,8 +106,8 @@ p{
 
 #product-overview {
     background-image: url("images/springpergola.png");
-    background-size: 75%;
-    width: 75rem;
+    background-size: 100%;
+    width: 55rem;
     height: 40rem;
     padding: 0px;
     margin: auto;
