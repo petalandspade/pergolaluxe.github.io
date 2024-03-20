@@ -19,18 +19,21 @@ p{
     font-family: "Bodoni Moda", serif;
     font-weight: bold;
     font-style: italic;
-    font-size: 5rem;
+    font-size: 4rem;
 }
 
 @media (min-width: 40rem) {
     #main-logo {
         font-size: 2rem;
     }
+    .section-title h2 {
+        font-size: 1.5rem;
+    }
 }
 
 .section-title h2 {
   font-family: "Raleway", sans-serif;
-  font-size: 4.2rem;
+  font-size: 3.5 rem;
   font-style: normal;
   font-weight: lighter;
   text-align: center;
