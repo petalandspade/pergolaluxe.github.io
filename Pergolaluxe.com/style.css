@@ -27,7 +27,7 @@ p{
         font-size: 2rem;
     }
     .section-title h2 {
-        font-size: 1 rem;
+        font-size: .7 rem;
     }
 }
 
@@ -52,7 +52,7 @@ p{
 }
 
 .main-header__brand img {
-    height: 16rem;
+    height: 8rem;
 }
 
 .main-nav {
@@ -103,8 +103,8 @@ p{
 #product-overview {
     background-image: url("images/springpergola.png");
     background-size: 100%;
-    width: 107rem;
-    height: 82rem;
+    width: 75rem;
+    height: 50rem;
     padding: 0px;
     margin: auto;
     background-repeat: no-repeat;
