@@ -72,7 +72,7 @@ p{
 
 .main-nav__item {
     display: inline-block;
-    margin: 0 1.25rem;
+    margin: 0 .75rem;
     font-size: 1rem;
 }
 
@@ -102,7 +102,7 @@ p{
 
 #product-overview {
     background-image: url("images/springpergola.png");
-    background-size: 100%;
+    background-size: 75%;
     width: 75rem;
     height: 40rem;
     padding: 0px;
