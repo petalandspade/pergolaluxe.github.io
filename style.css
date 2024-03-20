@@ -19,7 +19,13 @@ p{
     font-family: "Bodoni Moda", serif;
     font-weight: bold;
     font-style: italic;
-    font-size: 5rem;
+    font-size: 4rem;
+}
+
+@media (min-width: 40rem) {
+    #main-logo {
+        font-size: 2rem;
+    }
 }
 
 .section-title h2 {
