@@ -26,9 +26,9 @@ p{
     #main-logo {
         font-size: 2rem;
     }
-    .section-title h2 {
+   /* .section-title h2 {
         font-size: 1rem;
-    }
+    }*/
 }
 
 .section-title h2 {
@@ -73,7 +73,7 @@ p{
 .main-nav__item {
     display: inline-block;
     margin: 0 1.25rem;
-    font-size: 2.5rem;
+    font-size: 1rem;
 }
 
 .main-nav__item a {
@@ -104,7 +104,7 @@ p{
     background-image: url("images/springpergola.png");
     background-size: 100%;
     width: 75rem;
-    height: 45rem;
+    height: 40rem;
     padding: 0px;
     margin: auto;
     background-repeat: no-repeat;
