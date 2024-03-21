@@ -76,6 +76,7 @@ p{
     list-style: none;
     font-family: "raleway", sans-serif;
     vertical-align: text-top;
+    display:inline-block;
 }
 
 .main-nav__item {
