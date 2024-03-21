@@ -108,7 +108,6 @@ p{
     color: #27374D;
 }
 
-
 #product-overview {
     background-image: url("images/springpergola.png");
     background-size: 100%;
@@ -136,8 +135,6 @@ p{
     color:#DDE6ED;
     font-size: 2rem;
     position: relative;
+    margin-top: 3rem;
 }
 
-#product-overview p {
-    margin-top: 4rem;
-}
