@@ -43,6 +43,10 @@ p{
   padding:0;
 }
 
+.main-header {
+    display:inline-block;
+}
+
 .main-header > div {
     display: inline-block;
 }
