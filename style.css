@@ -5,6 +5,9 @@ html{
 h1 {
     color: #DDE6ED;
     text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 h2{
