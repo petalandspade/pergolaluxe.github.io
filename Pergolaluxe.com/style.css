@@ -44,12 +44,11 @@ p{
 }
 
 .main-header {
-    display:inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.main-header > div {
-    display: inline-block;
-}
 
 .main-header__brand {
     font-family: "raleway", sans-serif;
@@ -64,10 +63,7 @@ p{
 }
 
 .main-nav {
-    display: inline-block;
-    text-align: right; 
-    width: calc(100% - 5rem);
-    vertical-align: middle;
+    display: flex;
 }
 
 .main-nav__items {
@@ -76,11 +72,10 @@ p{
     list-style: none;
     font-family: "raleway", sans-serif;
     vertical-align: text-top;
-    display: inline-block;
+    display: flex;
 }
 
 .main-nav__item {
-    display: inline-block;
     margin: 0 .75rem;
     font-size: 1rem;
 }
