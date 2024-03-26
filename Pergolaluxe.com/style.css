@@ -22,7 +22,7 @@ p{
     font-family: "Bodoni Moda", serif;
     font-weight: bold;
     font-style: italic;
-    font-size: 4rem;
+    font-size: 2rem;
     margin-top: 0rem;
     margin-bottom: 0rem;
     padding: 0;
@@ -111,21 +111,22 @@ p{
 #product-overview {
     background-image: url("images/springpergola.png");
     background-size: 100%;
-    width: 60rem;
-    height: 40rem;
+    width: 100vw;
+    height: 80vh;
     padding: 0px;
     margin: auto;
     background-repeat: no-repeat;
     position: relative;
-    top: 5rem;
+    /*top: 5rem;*/
     border: black solid 5px;
     box-shadow:3px 3px 5px 3px rgba(0,0,0,0.3);
+    background: linear-gradient(to top, rgba(80, 68, 18, 0.6) 10%, transparent)
 }
 
 #product-overview h2 {
     font-family: "bodoni moda", italic;
     font-size: 4rem;
-    position: absolute;
+    /*position: absolute;*/
     top: 70rem;
     left: 9rem;
     color:#27374D; 
