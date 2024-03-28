@@ -50,6 +50,7 @@ p{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color:#334766;
 }
 
 
@@ -128,7 +129,7 @@ p{
     position: absolute;
     bottom: 12%;
     left: 3%;
-    color:#27374D; 
+    color:#334766; 
 }
 
 .first-paragraph {
