@@ -19,18 +19,20 @@ p{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  background-color: #334766;
 }
 
+
 .main-header__brand {
-    font-family: "raleway", sans-serif;
-    color: #9DB2BF;
-    font-size: 2rem;
-    text-decoration: none;
-    margin: 0 1rem;
+  font-family: "raleway", sans-serif;
+  color: #9DB2BF;
+  font-size: 2rem;
+  text-decoration: none;
+  margin: 0 1rem;
 }
 
 .main-header__brand img {
-    height: 8rem;
+  height: 8rem;
 }
 
 .main-nav {
@@ -38,80 +40,43 @@ p{
 }
 
 .main-nav__items {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    font-family: "raleway", sans-serif;
-    vertical-align: text-top;
-    display: flex;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-family: "raleway", sans-serif;
+  vertical-align: text-top;
+  display:flex;
+  align-items: center;
 }
 
 .main-nav__item {
-    margin: 0 .75rem;
-    font-size: 1rem;
+  margin: 0 .75rem;
+  font-size: 1rem;
 }
 
 .main-nav__item a {
-    text-decoration: none;
-    color: #9DB2BF;
+  text-decoration: none;
+  color: #9DB2BF;
 }
 
 .main-nav__item a:hover {
-    color: white;
+  color: white;
 }
 
 .main-nav__item a:active {
-    color: white;
+  color: white;
 }
 
 .main-nav__item--cta {
-    background: white;
-    padding: .5rem;
-    border-radius: .5rem;
-}
-
-.main-nav__item--cta a:hover {
-    color: #27374D;
-}
-
-.main-header > div {
-    display: inline-block;
-}
-
-
-.main-header__brand img {
-    height: 16rem;
-}
-
-
-.main-nav__item {
-    display: inline-block;
-    margin: 0 1.25rem;
-    font-size: 2.5rem;
-}
-
-.main-nav__item a {
-    text-decoration: none;
-    color: #9DB2BF;
-}
-
-.main-nav__item a:hover {
-    color: white;
-}
-
-.main-nav__item a:active {
-    color: white;
-}
-
-.main-nav__item--cta {
-    background: white;
-    padding: .5rem;
-    border-radius: .5rem;
+  background: white;
+  padding: .5rem;
+  border-radius: .5rem;
 }
 
 .main-nav__item--cta a:hover {
   color: #27374D;
 }
+
 
 
 .article-title {
