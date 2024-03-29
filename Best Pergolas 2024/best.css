@@ -89,8 +89,7 @@ p{
 
 .basic-paragraph {
     font-family: "raleway";
-    font-size: 2rem;
-    padding: 1.8rem;
+    font-size: 1.3rem;
     margin: 0 6.5rem;
 }
 
@@ -122,17 +121,17 @@ p{
 
   .second-paragraph {
     font-family: "raleway";
-    font-size: 2rem;
+    font-size: 1.3rem;
     padding: .6rem;
-    margin: 4.3rem;
+    margin: 3rem;
   }
 
   .h2-title {
     font-family: "raleway";
     font-weight: bold;
-    font-size: 3.2rem;
+    font-size: 2rem;
     padding: .6rem;
-    margin: 3rem 5.6rem;
+    margin: 3rem;
   }
 
   .top-list-container {
