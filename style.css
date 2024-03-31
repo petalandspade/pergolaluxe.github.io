@@ -177,10 +177,14 @@ p{
 
 .faq5 {
     background-color: orange;
+    grid-column-start: 2;
+    grid-column-end: 3;
 }
 
 .faq6 {
     background-color: blue;
+    grid-column-start: 4;
+    grid-column-end: 5;
 }
 
 .first-paragraph {
