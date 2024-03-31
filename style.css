@@ -140,7 +140,7 @@ p{
     color: #334766;
 }
 
-.grid-containter {
+.grid-container {
     margin: 0;
     display: grid;
     grid-template-columns: 40% 40%;
