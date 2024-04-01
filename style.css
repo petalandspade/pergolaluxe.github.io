@@ -151,12 +151,12 @@ p{
 
 .grid-container {
     margin-top: 5rem;
-    margin-left: 7vw;
+    margin-left: 15vw;
     display: grid;
     grid-template-columns: 30rem 30rem;
     grid-template-rows: 30rem 30rem 30rem;
-    grid-column-gap: 3rem;
-    grid-row-gap: 2rem
+    grid-column-gap: 4rem;
+    grid-row-gap: 3rem
 
 }
 
