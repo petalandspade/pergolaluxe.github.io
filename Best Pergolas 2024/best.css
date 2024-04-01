@@ -180,6 +180,11 @@ p{
     margin-left: 0 6.5rem;
   }
 
+  .individual-purple-leaf {
+    box-sizing: border-box;
+    margin-top: 1rem;
+  }
+
   .purple-leaf-photo-container {
     width: 45%;
     display: inline-block;
@@ -200,6 +205,7 @@ p{
     Font-family: "bodoni moda";
     margin-left: 6.5rem;
   }
+
 
   .list-title-container {
     margin: 0 5rem;
