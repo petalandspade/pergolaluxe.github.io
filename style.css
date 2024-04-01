@@ -8,6 +8,7 @@ body {
     display: grid;
     grid-template-rows: auto 8rem;
     padding-top: 3.5rem;
+    height: 100%;
 }
 
 h1 {
