@@ -154,7 +154,7 @@ p{
     margin-left: 15vw;
     display: grid;
     grid-template-columns: 30rem 30rem;
-    grid-template-rows: 30rem 30rem 30rem;
+    grid-template-rows: 30rem 30rem;
     grid-column-gap: 4rem;
     grid-row-gap: 3rem
 
@@ -167,6 +167,13 @@ p{
     background-repeat: no-repeat;
     box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
     background-size: 100%; 
+}
+
+.faq1 h2 {
+    font-family: "raleway", sans-serif;
+    font-size: 1rem;
+    top: 5%;
+    left: 5%;
 }
 
 .faq2 {
@@ -200,23 +207,6 @@ p{
     background-size: 100%; 
 }
 
-.faq5 {
-    background-color: orange;
-    grid-column-start: 1;
-    grid-column-end: 2;
-    background-repeat: no-repeat;
-    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
-    background-size: 100%; 
-}
-
-.faq6 {
-    background-color: blue;
-    grid-column-start: 2;
-    grid-column-end: 3;
-    background-repeat: no-repeat;
-    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
-    background-size: 100%; 
-}
 
 .first-paragraph {
     color:#DDE6ED;
