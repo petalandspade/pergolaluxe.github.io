@@ -152,23 +152,17 @@ p{
 .grid-container {
     margin: 0;
     display: grid;
-    grid-template-columns: 40% 40% ;
-    grid-template-rows: 3;
+    grid-template-columns: 38rem 38rem ;
+    grid-template-rows: 38rem 38rem;
     grid-column-gap: 2rem;
     grid-row-gap: 2rem
-    grid-template-areas: "image1 image2"
-                         "image3 image4"
-                         "image5 image6";
+
 }
 
 .faq1 {
     background-image: url(./images/louvered\ pergola\ thumnail.png);
     grid-column-start: 1;
     grid-column-end: 2;
-    grid-area: image1;
-    width: 100%
-    height: 100%;
-    object-fit: cover;
 }
 
 .faq2 {
