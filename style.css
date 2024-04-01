@@ -150,7 +150,7 @@ p{
 }
 
 .faq1 {
-    background-color: red;
+    background-image: url(./images/louvered\ pergola\ thumnail.png);
     grid-column-start: 1;
     grid-column-end: 2;
 }
