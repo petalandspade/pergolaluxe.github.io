@@ -153,15 +153,15 @@ p{
     margin-top: 5rem;
     margin-left: 7vw;
     display: grid;
-    grid-template-columns: 38rem 38rem ;
-    grid-template-rows: 38rem 38rem 38rem;
+    grid-template-columns: 30rem 30rem;
+    grid-template-rows: 30rem 30rem 30rem;
     grid-column-gap: 3rem;
     grid-row-gap: 2rem
 
 }
 
 .faq1 {
-    background-image: url(./images/louvered\ pergola\ thumnail.png);
+    background-image: url(./images/louvered\ thumnail.png);
     grid-column-start: 1;
     grid-column-end: 2;
     background-repeat: no-repeat;
@@ -170,7 +170,7 @@ p{
 }
 
 .faq2 {
-    background-image: url(./images/roofed\ pergola.png);
+    background-image: url(./images/pergola\ with\ roof\ thumnail.png);
     grid-column-start: 2;
     grid-column-end: 3;
     background-repeat: no-repeat;
@@ -179,7 +179,7 @@ p{
 }
 
 .faq3 {
-    background-image:url(./images/pergola\ kits\ thumnail.jpeg);
+    background-image:url(./images/kits\ thumnail.png);
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 2;
@@ -190,7 +190,7 @@ p{
 }
 
 .faq4 {
-    background-image:url(./images/pergola\ ideas\ thumnail.jpeg);
+    background-image:url(./images/\ ideas\ thumnail.png);
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 2;
