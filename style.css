@@ -185,6 +185,13 @@ p{
     background-size: 100%; 
 }
 
+.faq2 h2 { 
+    font-family: "raleway", sans-serif;
+    font-size: 2rem;
+    background-color: #DDE6ED;
+    color:#27374D;
+}
+
 .faq3 {
     background-image:url(./images/kits\ thumnail.png);
     grid-column-start: 1;
@@ -194,6 +201,13 @@ p{
     background-repeat: no-repeat;
     box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
     background-size: 100%; 
+}
+
+.faq3 h2 {
+    font-family: "raleway", sans-serif;
+    font-size: 2rem;
+    background-color: #DDE6ED;
+    color:#27374D;
 }
 
 .faq4 {
@@ -207,6 +221,12 @@ p{
     background-size: 100%; 
 }
 
+.faq4 h2{
+    font-family: "raleway", sans-serif;
+    font-size: 2rem;
+    background-color: #DDE6ED;
+    color:#27374D;
+}
 
 .first-paragraph {
     color:#DDE6ED;
