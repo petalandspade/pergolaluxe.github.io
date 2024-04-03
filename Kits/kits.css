@@ -118,13 +118,13 @@ p{
 }
 
 #background-video {
-    width: 80vw;
+    width: 98vw;
     height: 80vh;
     object-fit: cover;
     position: fixed;
-    left: 0;
+    left: 1rem;
     right: 0;
-    top: 0;
+    top: 10rem;
     bottom: 0;
     z-index: -1;
   }
