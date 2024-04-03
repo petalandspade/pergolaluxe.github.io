@@ -203,6 +203,10 @@ p{
     background-size: 100%; 
 }
 
+.faq3 a {
+    text-decoration: none;
+}
+
 .faq3 h2 {
     font-family: "raleway", sans-serif;
     font-size: 2rem;
