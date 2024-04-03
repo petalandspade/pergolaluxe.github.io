@@ -131,12 +131,16 @@ p{
   
 .video-title {
     color:#9DB2BF;
-    size: 2rem;
-    font-family: "bodoni moda" light;
+    font-size: 5rem;
+    font-family: "raleyway";
+    margin-top: 12rem;
+    margin-left: 50rem;
 }
 
 .video-subtitle {
     color:#9DB2BF;
-    font-size: 1rem;
-    font-family:"bodoni moda" light;
+    font-size: 2rem;
+    font-family:"raleyway" light;
+    margin-left: 56rem;
+    margin-top: -0.5rem;
 }
