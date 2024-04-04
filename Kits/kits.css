@@ -135,10 +135,10 @@ p{
   
 .video-title {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     color:#9DB2BF;
-    font-size: 5rem;
+    font-size: 4rem;
     font-family: "raleyway," sans-serif;
     margin-top: -22rem;
     margin-left: 50rem;
