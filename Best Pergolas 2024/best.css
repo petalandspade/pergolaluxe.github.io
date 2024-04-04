@@ -214,6 +214,7 @@ p{
   .plan__title {
     color: #27374D;
     font-family: "raleway," sans-serif;
+    font-size: 2rem;
   }
   
   .plan__price {
@@ -221,6 +222,11 @@ p{
     font-family: "raleway," sans-serif;
   }
   
+  .specifications {
+    font-size: 1rem;
+    font-family: sans-serif;
+  }
+
   .plan--highlighted .plan__title {
     color: white;
   }
@@ -237,7 +243,8 @@ p{
   
   .plan__feature {
     margin: 8px 0;
-    font-family: "raleway," sans-serif;
+    font-family: "raleway" sans-serif;
+    font-size: 1rem;
   }
 
   .purple-leaf-photo-container {
