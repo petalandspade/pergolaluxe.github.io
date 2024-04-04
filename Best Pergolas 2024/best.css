@@ -204,18 +204,21 @@ p{
   
   .plan__annotation {
     background: white;
-    color: #19b84c;
+    color: #27374D
+    font-family: "bodoni moda," sans-serif;
     padding: 8px;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
     border-radius: 8px;
   }
   
   .plan__title {
-    color: #0e4f1f;
+    color: #27374D;
+    font-family: "raleway," sans-serif;
   }
   
   .plan__price {
     color: #858585;
+    font-family: "raleway," sans-serif;
   }
   
   .plan--highlighted .plan__title {
@@ -234,6 +237,7 @@ p{
   
   .plan__feature {
     margin: 8px 0;
+    font-family: "raleway," sans-serif;
   }
 
   .purple-leaf-photo-container {
