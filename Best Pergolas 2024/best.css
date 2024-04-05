@@ -134,8 +134,12 @@ p{
     margin: 3rem;
   }
 
+  .h2-title-top-ten {
+    margin: 0rem 3rem;
+  }
+
   .top-list-container {
-    margin: 2rem 5.6rem;
+    margin: 0rem 5.6rem;
   }
 
   li {
