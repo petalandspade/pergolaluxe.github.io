@@ -136,6 +136,10 @@ p{
 
   .h2-title-top-ten {
     margin: 0rem 3rem;
+    font-family: "raleway";
+    font-weight: bold;
+    font-size: 2rem;
+    padding: .6rem;
   }
 
   .top-list-container {
