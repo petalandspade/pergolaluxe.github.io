@@ -139,17 +139,18 @@ p{
     align-items: center;
     color:#9DB2BF;
     font-size: 4rem;
-    font-family: "raleyway," sans-serif;
+    font-family: "raleyway";
     margin-top: -22rem;
-    margin-left: 50rem;
+    margin-left: 49rem;
 }
 
 .video-subtitle {
     display:flex;
     align-items: center;
+    justify-content: center;
     color:#9DB2BF;
     font-size: 2rem;
-    font-family:"raleyway," sans-serif;
-    margin-left: 56rem;
+    font-family:"raleyway";
+    margin-left: 49rem;
     margin-top: -0.5rem;
 }
