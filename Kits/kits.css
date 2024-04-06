@@ -161,6 +161,8 @@ p{
     grid-template-rows: 8;
     column-gap: 10px;
     row-gap: 10px;
+    margin-top: 30rem;
+    margin-left: 20rem;
     grid-template-areas:  "nav toja-title toja-title"
     "nav toja-selling-points toja-selling points"
     "nav toja-flat-top-pic toja-flat-top-info"
