@@ -191,7 +191,7 @@ p{
     }
     
     .toja-flat-top-pic {
-    Grid-area: toja-flat-top-pic;
+    grid-area: toja-flat-top-pic;
     background-color: blue;
     grid-column-start: 2;
     grid-column-end: 3;
@@ -200,7 +200,7 @@ p{
     }
     
     .toja-flat-top-info {
-    Grid-area: toja-flat-top-pic;
+    grid-area: toja-flat-top-pic;
     background-color: green;
     grid-column-start: 3;
     grid-column-end: 4;
@@ -209,7 +209,7 @@ p{
     }
     
     .toja-angled-info {
-    Grid-area: toja-angled-info;
+    grid-area: toja-angled-info;
     background-color: red;
     grid-column-start: 2;
     grid-column-end: 3;
@@ -218,7 +218,7 @@ p{
     }
     
     .toja-angled-pic {
-    Grid-area: toja-angled-pic;
+    grid-area: toja-angled-pic;
     background-color: gray;
     grid-column-start: 3;
     grid-column-end: 4;
@@ -227,7 +227,7 @@ p{
 }
     
     .toja-wall-pic {
-    Grid-area: toja-wall-pic;
+    grid-area: toja-wall-pic;
     background-color: orange;
     grid-column-start: 2;
     grid-column-end: 3;
@@ -236,7 +236,7 @@ p{
     }
     
     .toja-wall-info {
-    Grid-area: toja-wall-info;
+    grid-area: toja-wall-info;
     background-color: teal;
     grid-column-start: 3;
     grid-column-end: 4;
@@ -245,7 +245,7 @@ p{
     }
     
     .toja-angled-roof-pic {
-    Grid-area: toja-angled-roof-pic;
+    grid-area: toja-angled-roof-pic;
     background-color: pink;
     grid-column-start: 2;
     grid-column-end: 3;
@@ -254,7 +254,7 @@ p{
     }
     
     .toja-angled-roof-info {
-    Grid-area: toja-angled-roof-info;
+    grid-area: toja-angled-roof-info;
     background-color: black;
     grid-column-start: 3;
     grid-column-end: 4;
@@ -263,7 +263,7 @@ p{
     }
     
     .toja-hexa-info {
-    Grid-area: toja-hexa-info;
+    grid-area: toja-hexa-info;
     background-color: violet;
     grid-column-start: 2;
     grid-column-end: 3;
@@ -272,7 +272,7 @@ p{
     }
     
     .toja-hexa-pic {
-    Grid-area: toja-hexa-pic;
+    grid-area: toja-hexa-pic;
     background-color: maroon;
     grid-column-start: 3;
     grid-column-end: 4;
@@ -281,7 +281,7 @@ p{
     }
     
     .toja-triangle-pic {
-    Grid-area: toja-triangle-pic;
+    grid-area: toja-triangle-pic;
     background-color: chartreuse;
     grid-column-start: 2;
     grid-column-end: 3;
@@ -290,7 +290,7 @@ p{
     }
     
     .toja-triangle-info {
-    Grid-area: toja-triangle-info;
+    grid-area: toja-triangle-info;
     background-color: chocolate;
     grid-column-start: 3;
     grid-column-end: 4;
