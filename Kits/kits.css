@@ -161,16 +161,16 @@ p{
     grid-template-rows: 8;
     column-gap: 10px;
     row-gap: 10px;
-    grid-template-areas:
-        "nav toja-title toja-title"
-        "nav toja-selling-points toja-selling points"
-        "nav toja-flat-top-pic toja-flat-top-info"
-        "nav toja-angled-info toja-angled-pic"
-        "nav toja-wall-pic toja-wall-info"
-        "nav toja-angled-roof-info toja-angled-roof-pic"
-        "nav toja-hexa-pic toja-hexa-info"
-        "nav toja-triangle-info toja-triangle-pic";
+    grid-template-areas:  "nav toja-title toja-title"
+    "nav toja-selling-points toja-selling points"
+    "nav toja-flat-top-pic toja-flat-top-info"
+    "nav toja-angled-info toja-angled-pic"
+    "nav toja-wall-pic toja-wall-info"
+    "nav toja-angled-roof-info toja-angled-roof-pic"
+    "nav toja-hexa-pic toja-hexa-info"
+    "nav toja-triangle-info toja-triangle-pic";
     }
+  
 
     .nav {
         background-color: white;
