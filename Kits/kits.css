@@ -154,3 +154,82 @@ p{
     margin-left: 49rem;
     margin-top: -0.5rem;
 }
+
+.toja-container {
+    Display: grid;
+    grid-template-columns: 20% 40% 40%;
+    grid-template-rows: 8;
+    column-gap: 10px;
+    row-gap: 10px;
+    grid-template-areas:
+        "nav toja-title toja-title"
+        "nav toja-selling-points toja-selling points"
+        "nav toja-flat-top-pic toja-flat-top-info"
+        "nav toja-angled-info toja-angled-pic"
+        "nav toja-wall-pic toja-wall-info"
+        "nav toja-angled-roof-info toja-angled-roof-pic"
+        "nav toja-hexa-pic toja-hexa-info"
+        "nav toja-triangle-info toja-triangle-pic"
+    }
+    
+    .toja-title {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    }
+    
+    .toja-selling-poimts {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    }
+    
+    .toja-flat-top-pic {
+    Grid-area: toja-flat-top-pic;
+    }
+    
+    .toja-flat-top-info {
+    Grid-area: toja-flat-top-pic;
+    }
+    
+    .toja-angled-info {
+    Grid-area: toja-angled-info;
+    }
+    
+    .toja-angled-pic {
+    Grid-area: toja-angled-pic;
+    }
+    
+    .toja-wall-pic {
+    Grid-area: toja-wall-pic;
+    }
+    
+    .toja-wall-info {
+    Grid-area: toja-wall-info;
+    }
+    
+    .toja-angled-roof-pic {
+    Grid-area: toja-angled-roof-pic;
+    }
+    
+    .toja-angled-roof-info {
+    Grid-area: toja-angled-roof-info;
+    }
+    
+    .toja-hexa-info {
+    Grid-area: toja-hexa-info;
+    }
+    
+    .toja-hexa-pic {
+    Grid-area: toja-hexa-pic;
+    }
+    
+    .toja-triangle-pic {
+    Grid-area: toja-triangle-pic;
+    }
+    
+    .toja-triangle-info {
+    Grid-area: toja-triangle-info;
+    }
