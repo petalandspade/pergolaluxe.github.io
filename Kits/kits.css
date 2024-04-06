@@ -163,14 +163,6 @@ p{
     row-gap: 10px;
     margin-top: 30rem;
     margin-left: 20rem;
-    grid-template-areas:  "nav toja-title toja-title"
-    "nav toja-selling-points toja-selling points"
-    "nav toja-flat-top-pic toja-flat-top-info"
-    "nav toja-angled-info toja-angled-pic"
-    "nav toja-wall-pic toja-wall-info"
-    "nav toja-angled-roof-info toja-angled-roof-pic"
-    "nav toja-hexa-pic toja-hexa-info"
-    "nav toja-triangle-info toja-triangle-pic";
     }
   
 
@@ -179,7 +171,7 @@ p{
         grid-column-start: 1;
         grid-column-end: 2;
         grid-row-start: 1;
-        grid-row-end: span 8;
+        grid-row-end: 9;
     }
     
     .toja-title {
