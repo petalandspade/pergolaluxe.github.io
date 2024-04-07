@@ -172,6 +172,16 @@ p{
     background-color: #9DB2BF;
     }
 
+  .navigation-menu {
+    list-style: none;
+  }
+
+  .li {
+    font-family: 'raleway';
+    font-weight: 400;
+  }
+
+  /*title*/
   .box2 {
     grid-column-start: 2;
     grid-column-end: 4;
