@@ -139,7 +139,7 @@ p{
     align-items: center;
     color:#9DB2BF;
     font-size: 4rem;
-    font-family: sans-serif;
+    font-family: 'raleway';
     margin-top: -22rem;
     margin-left: 49rem;
 }
@@ -150,7 +150,7 @@ p{
     justify-content: center;
     color:#9DB2BF;
     font-size: 2rem;
-    font-family: sans-serif;
+    font-family: 'raleway';
     margin-left: 49rem;
     margin-top: -0.5rem;
 }
@@ -179,6 +179,8 @@ p{
     grid-row-end: 2;
     font-family: 'raleway';
     font-size: 2rem;
+    color:#9DB2BF;
+    text-align: center;
   }
 
   .box3 {
