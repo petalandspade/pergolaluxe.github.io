@@ -155,250 +155,116 @@ p{
     margin-top: -0.5rem;
 }
 
-.toja-container {
-    display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(8, 100px);
-    }
-  
 
-    .nav {
-        background-color: white;
-        grid-column-start: 1;
-        grid-column-end: 2;
-        grid-row-start: 1;
-        grid-row-end: 9;
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(8, 100px);
+}
+
+  .box1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 9;
     }
-    
-    .toja-title {
+
+  .box2 {
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 2;
-    background-color: yellow;
-    }
-    
-    .toja-selling-poimts {
+  }
+
+  .box3 {
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 2;
     grid-row-end: 3;
-    background-color: purple;
-    }
-    
-    .toja-flat-top-pic {
-    grid-area: toja-flat-top-pic;
-    background-color: blue;
+  }
+      
+  .box4 {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 3;
     grid-row-end: 4;
-    }
-    
-    .toja-flat-top-info {
-    grid-area: toja-flat-top-pic;
-    background-color: green;
+  }
+
+  .box5 {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 3;
     grid-row-end: 4;
-    }
-    
-    .toja-angled-info {
-    grid-area: toja-angled-info;
-    background-color: red;
+  }
+      
+  .box6 {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 4;
     grid-row-end: 5;
-    }
-    
-    .toja-angled-pic {
-    grid-area: toja-angled-pic;
-    background-color: gray;
+  }
+
+  .box7 {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 4;
     grid-row-end: 5;
-}
-    
-    .toja-wall-pic {
-    grid-area: toja-wall-pic;
-    background-color: orange;
+  }
+
+  .box8 {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 5;
     grid-row-end: 6;
-    }
-    
-    .toja-wall-info {
-    grid-area: toja-wall-info;
-    background-color: teal;
+  }
+
+  .box9 {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 5;
     grid-row-end: 6;
-    }
-    
-    .toja-angled-roof-pic {
-    grid-area: toja-angled-roof-pic;
-    background-color: pink;
+  }
+      
+  .box10 {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 6;
     grid-row-end: 7;
-    }
-    
-    .toja-angled-roof-info {
-    grid-area: toja-angled-roof-info;
-    background-color: black;
+  }
+      
+  .box11 {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 6;
     grid-row-end: 7;
-    }
-    
-    .toja-hexa-info {
-    grid-area: toja-hexa-info;
-    background-color: violet;
+  }
+
+  .box12 {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 7;
     grid-row-end: 8;
-    }
-    
-    .toja-hexa-pic {
-    grid-area: toja-hexa-pic;
-    background-color: maroon;
+  }
+
+  .box13 {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 7;
     grid-row-end: 8;
-    }
-    
-    .toja-triangle-pic {
-    grid-area: toja-triangle-pic;
-    background-color: chartreuse;
+  }
+
+  .box14 {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 8;
     grid-row-end: 9;
-    }
-    
-    .toja-triangle-info {
-    grid-area: toja-triangle-info;
-    background-color: chocolate;
+  }
+
+  .box15 {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 8;
     grid-row-end: 9;
-    }
-
-    .wrapper {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(8, 100px);
-      }
-
-      .box1 {
-        grid-column-start: 1;
-        grid-column-end: 2;
-        grid-row-start: 1;
-        grid-row-end: 9;
-      }
-      .box2 {
-        grid-column-start: 2;
-        grid-column-end: 4;
-        grid-row-start: 1;
-        grid-row-end: 2;
-      }
-      .box3 {
-        grid-column-start: 2;
-        grid-column-end: 4;
-        grid-row-start: 2;
-        grid-row-end: 3;
-      }
-      .box4 {
-        grid-column-start: 2;
-        grid-column-end: 3;
-        grid-row-start: 3;
-        grid-row-end: 4;
-      }
-
-      .box5 {
-        grid-column-start: 3;
-        grid-column-end: 4;
-        grid-row-start: 3;
-        grid-row-end: 4;
-      }
-      
-      .box6 {
-        grid-column-start: 2;
-        grid-column-end: 3;
-        grid-row-start: 4;
-        grid-row-end: 5;
-      }
-
-      .box7 {
-        grid-column-start: 3;
-        grid-column-end: 4;
-        grid-row-start: 4;
-        grid-row-end: 5;
-      }
-
-      .box8 {
-        grid-column-start: 2;
-        grid-column-end: 3;
-        grid-row-start: 5;
-        grid-row-end: 6;
-      }
-
-      .box9 {
-        grid-column-start: 3;
-        grid-column-end: 4;
-        grid-row-start: 5;
-        grid-row-end: 6;
-      }
-      
-      .box10 {
-        grid-column-start: 2;
-        grid-column-end: 3;
-        grid-row-start: 6;
-        grid-row-end: 7;
-      }
-      
-      .box11 {
-        grid-column-start: 3;
-        grid-column-end: 4;
-        grid-row-start: 6;
-        grid-row-end: 7;
-      }
-
-      .box12 {
-        grid-column-start: 2;
-        grid-column-end: 3;
-        grid-row-start: 7;
-        grid-row-end: 8;
-      }
-
-      .box13 {
-        grid-column-start: 3;
-        grid-column-end: 4;
-        grid-row-start: 7;
-        grid-row-end: 8;
-      }
-
-      .box14 {
-        grid-column-start: 2;
-        grid-column-end: 3;
-        grid-row-start: 8;
-        grid-row-end: 9;
-      }
-
-      .box15 {
-        grid-column-start: 3;
-        grid-column-end: 4;
-        grid-row-start: 8;
-        grid-row-end: 9;
-      }
+  }
     
