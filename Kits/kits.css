@@ -170,6 +170,10 @@ p{
     grid-row-start: 1;
     grid-row-end: 9;
     background-color: #9DB2BF;
+    font-family: 'raleway';
+    font-weight: 400;
+    list-style: none;
+    font-size: 1rem;
     }
 
   .navigation-menu {
