@@ -159,7 +159,7 @@ p{
 
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 20% 40% 40%;
   grid-template-rows: repeat(8, 100px);
   margin-top:18rem;
 }
