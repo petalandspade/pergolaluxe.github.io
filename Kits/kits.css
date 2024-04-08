@@ -275,6 +275,8 @@ p{
     grid-column-end: 3;
     grid-row-start: 4;
     grid-row-end: 5;
+    font-family: 'raleway';
+    display: flex;
   }
 
   .box7 {
