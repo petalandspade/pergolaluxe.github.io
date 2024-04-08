@@ -280,11 +280,11 @@ p{
   }
 
   .angle-title {
-    justify-content: flex-start;
     display: flex;
     font-size: 2rem;
     font-weight: 400;
-    font-family: 'raleway';
+    font-family: 'raleway';  
+    justify-content: flex-start;
   }
 
   .angle-subtitle {
@@ -317,11 +317,13 @@ p{
     display: flex;
     font-size: 2rem;
     font-weight: 400;
+    font-family: 'raleway';
   }
 
   .toja-price {
     font-family: 'raleway';
     font-weight: 400;
+    font-family: 'raleway';
   }
 
   .wall-subtitle {
@@ -346,6 +348,18 @@ p{
     grid-row-end: 7;
   }
       
+  .peaked-roof-title {
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'raleway';  
+    justify-content: flex-start;
+  }
+
+  .peaked-roof-subtitle {
+    font-weight: 300;
+  }
+
   .box11 {
     grid-column-start: 3;
     grid-column-end: 4;
