@@ -163,7 +163,7 @@ p{
   grid-template-rows: 4rem 3rem 22rem 22rem 22rem 22rem 22rem 22rem;
   margin-top:18rem;
   grid-column-gap: 20px;
-  grid-row-gap: 1.8rem;
+  grid-row-gap: 5rem;
 }
 
   .box1 {
@@ -359,6 +359,7 @@ p{
 
   .wall-subtitle {
     font-weight: 300;
+    font-family: 'raleway';
   }
 
   .toja-pros {
@@ -430,6 +431,7 @@ p{
 
   .hexa-subtitle {
     font-weight: 300;
+    font-family: 'raleway';
   }
 
   .toja-pros {
