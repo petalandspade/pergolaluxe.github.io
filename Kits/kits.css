@@ -241,6 +241,17 @@ p{
 
   .flat-top-title {
     justify-content: flex-start;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
+  .flat-top-subtitle {
+    font-weight: 300;
+  }
+
+  .toja-pros {
+    font-family: 'raleway';
   }
       
   .box6 {
