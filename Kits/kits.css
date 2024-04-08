@@ -234,8 +234,16 @@ p{
     grid-row-end: 4;
   }
 
+  .flat-top-image-container {
+    width: 45%;
+    display: flex;
+    vertical-align: middle;
+  }
+
   .flat-top-image {
-    width: 50rem;
+    width: 100%;
+    vertical-align: top;
+    height: 100%;
   }
 
   .box5 { /*flat top basic */
