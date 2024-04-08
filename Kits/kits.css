@@ -279,6 +279,17 @@ p{
     display: flex;
   }
 
+  .angle-top-title {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
+  .angle-subtitle {
+    font-weight: 300;
+  }
+
   .box7 {
     grid-column-start: 3;
     grid-column-end: 4;
