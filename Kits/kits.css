@@ -159,11 +159,11 @@ p{
 
 .wrapper {
   display: grid;
-  grid-template-columns: 20% 40% 40%;
+  grid-template-columns: 20% 39% 39%;
   grid-template-rows: 4rem 3rem 22rem 22rem 22rem 22rem 22rem 22rem;
   margin-top:18rem;
   grid-column-gap: 20px;
-  grid-row-gap: 20px;
+  grid-row-gap: 1.8rem;
 }
 
   .box1 {
@@ -176,13 +176,15 @@ p{
     font-weight: 400;
     list-style: none;
     font-size: 1.5rem;
-    text-align: center;
+    text-align: left;
     }
 
   .nav-title {
     margin-top: 1rem;
     font-size: 2rem;
     font-weight: 500;
+    text-align: left;
+    margin-left: .4rem;
   }
 
   .navigtion-menu {
@@ -232,10 +234,11 @@ p{
     grid-column-end: 3;
     grid-row-start: 3;
     grid-row-end: 4;
+    background: white;
   }
 
   .flat-top-image-container {
-    width: 45%;
+    width: 24rem;
     display: flex;
     vertical-align: middle;
   }
@@ -310,6 +313,19 @@ p{
     grid-row-start: 4;
     grid-row-end: 5;
   }
+
+  .angled-image-container {
+    width: 24rem;
+    display: flex;
+    vertical-align: middle;
+  }
+
+  .angled-image {
+    width: 100%;
+    vertical-align: top;
+    height: 100%;
+  }
+
 
   .box8 { /*wall pic*/
     grid-column-start: 2;
