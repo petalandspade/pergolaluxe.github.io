@@ -162,8 +162,8 @@ p{
   grid-template-columns: 20% 40% 40%;
   grid-template-rows: 4rem 3rem 22rem 22rem 22rem 22rem 22rem 22rem;
   margin-top:18rem;
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
 }
 
   .box1 {
@@ -234,7 +234,7 @@ p{
     grid-row-end: 4;
   }
 
-  .box5 {
+  .box5 { /*flat top basic */
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 3;
@@ -270,7 +270,7 @@ p{
     font-size: 1.2rem;
   }
       
-  .box6 {
+  .box6 { /*angled roof*/
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 4;
@@ -279,8 +279,8 @@ p{
     display: flex;
   }
 
-  .angle-top-title {
-    justify-content: flex-end;
+  .angle-title {
+    justify-content: flex-start;
     display: flex;
     font-size: 2rem;
     font-weight: 400;
@@ -298,18 +298,45 @@ p{
     grid-row-end: 5;
   }
 
-  .box8 {
+  .box8 { /*wall pic*/
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 5;
     grid-row-end: 6;
   }
 
-  .box9 {
+  .box9 { /*wall*/
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 5;
     grid-row-end: 6;
+  }
+
+  .wall-title {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
+  .toja-price {
+    font-family: 'raleway';
+    font-weight: 400;
+  }
+
+  .wall-subtitle {
+    font-weight: 300;
+  }
+
+  .toja-pros {
+    font-family: 'raleway';
+    color:#DDE6ED;
+  }
+
+  .toja__feature {
+    font-family: 'raleway';
+    color: #9DB2BF;
+    font-size: 1.2rem;
   }
       
   .box10 {
