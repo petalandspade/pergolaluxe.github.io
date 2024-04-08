@@ -232,6 +232,8 @@ p{
     grid-column-end: 3;
     grid-row-start: 3;
     grid-row-end: 4;
+    width: 100%;
+    height: 100%
   }
 
   .box5 { /*flat top basic */
