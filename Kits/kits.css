@@ -233,6 +233,12 @@ p{
     grid-column-end: 4;
     grid-row-start: 3;
     grid-row-end: 4;
+    font-family: 'raleway';
+    display: flex;
+  }
+
+  .flat-top-title {
+    justify-content: flex-start;
   }
       
   .box6 {
