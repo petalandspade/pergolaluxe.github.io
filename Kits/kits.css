@@ -160,7 +160,7 @@ p{
 .wrapper {
   display: grid;
   grid-template-columns: 20% 40% 40%;
-  grid-template-rows: 100px 100px 300px 300px 300px 300px 300px 300px;
+  grid-template-rows: 6.2rem 5rem 19rem 19rem 19rem 19rem 19rem 19rem;
   margin-top:18rem;
 }
 
