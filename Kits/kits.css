@@ -160,7 +160,7 @@ p{
 .wrapper {
   display: grid;
   grid-template-columns: 20% 40% 40%;
-  grid-template-rows: 4rem 3rem 19rem 19rem 19rem 19rem 19rem 19rem;
+  grid-template-rows: 4rem 3rem 22rem 22rem 22rem 22rem 22rem 22rem;
   margin-top:18rem;
   grid-column-gap: 10px;
   grid-row-gap: 10px;
@@ -261,12 +261,13 @@ p{
 
   .toja-pros {
     font-family: 'raleway';
+    color:#DDE6ED;
   }
 
   .toja__feature {
     font-family: 'raleway';
     color: #9DB2BF;
-    font-size: 1rem;
+    font-size: 1.2rem;
   }
       
   .box6 {
