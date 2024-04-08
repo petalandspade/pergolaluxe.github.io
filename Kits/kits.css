@@ -280,10 +280,11 @@ p{
   }
 
   .angle-top-title {
-    justify-content: flex-start;
+    justify-content: flex-end;
     display: flex;
     font-size: 2rem;
     font-weight: 400;
+    font-family: 'raleway';
   }
 
   .angle-subtitle {
