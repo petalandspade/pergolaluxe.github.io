@@ -285,6 +285,7 @@ p{
     font-weight: 400;
     font-family: 'raleway';  
     justify-content: flex-start;
+    text-align: left;
   }
 
   .angle-subtitle {
@@ -341,7 +342,7 @@ p{
     font-size: 1.2rem;
   }
       
-  .box10 {
+  .box10 { 
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 6;
@@ -354,10 +355,12 @@ p{
     font-weight: 400;
     font-family: 'raleway';  
     justify-content: flex-start;
+    text-align: left;
   }
 
   .peaked-roof-subtitle {
     font-weight: 300;
+    font-family: 'raleway';
   }
 
   .box11 {
@@ -374,11 +377,40 @@ p{
     grid-row-end: 8;
   }
 
-  .box13 {
+  .box13 { /*hexa*/
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 7;
     grid-row-end: 8;
+  }
+
+  .hexa-title {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'raleway';
+  }
+
+  .toja-price {
+    font-family: 'raleway';
+    font-weight: 400;
+    font-family: 'raleway';
+  }
+
+  .hexa-subtitle {
+    font-weight: 300;
+  }
+
+  .toja-pros {
+    font-family: 'raleway';
+    color:#DDE6ED;
+  }
+
+  .toja__feature {
+    font-family: 'raleway';
+    color: #9DB2BF;
+    font-size: 1.2rem;
   }
 
   .box14 {
@@ -386,6 +418,20 @@ p{
     grid-column-end: 3;
     grid-row-start: 8;
     grid-row-end: 9;
+  }
+
+  .triangle-title {
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'raleway';  
+    justify-content: flex-start;
+    text-align: left;
+  }
+
+  .triangle-subtitle {
+    font-weight: 300;
+    font-family: 'raleway';
   }
 
   .box15 {
