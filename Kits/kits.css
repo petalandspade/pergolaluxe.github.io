@@ -160,8 +160,10 @@ p{
 .wrapper {
   display: grid;
   grid-template-columns: 20% 40% 40%;
-  grid-template-rows: 5rem 6rem 19rem 19rem 19rem 19rem 19rem 19rem;
+  grid-template-rows: 4rem 4rem 19rem 19rem 19rem 19rem 19rem 19rem;
   margin-top:18rem;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
 }
 
   .box1 {
@@ -216,12 +218,13 @@ p{
     grid-row-end: 3;
     font-family: 'raleway';
     font-weight: 200;
-    color: #9DB2BF;
+    color: #27374D;
     display: flex;
     justify-content: space-evenly;
     align-content: center;
-    align-items: flex-start;
+    align-items: center;
     font-size: 2rem;
+    background-color: #DDE6ED;
   }
       
   .box4 {
