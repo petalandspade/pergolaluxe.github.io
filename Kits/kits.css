@@ -160,7 +160,7 @@ p{
 .wrapper {
   display: grid;
   grid-template-columns: 20% 40% 40%;
-  grid-template-rows: 4rem 4rem 19rem 19rem 19rem 19rem 19rem 19rem;
+  grid-template-rows: 4rem 3rem 19rem 19rem 19rem 19rem 19rem 19rem;
   margin-top:18rem;
   grid-column-gap: 10px;
   grid-row-gap: 10px;
@@ -224,7 +224,7 @@ p{
     align-content: center;
     align-items: center;
     font-size: 2rem;
-    background-color: #DDE6ED;
+    background-color: #9DB2BF;
   }
       
   .box4 {
