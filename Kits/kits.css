@@ -411,6 +411,19 @@ p{
     grid-column-end: 4;
     grid-row-start: 6;
     grid-row-end: 7;
+    background-color: white;
+  }
+
+  .peaked-roof-image-container {
+    width: 24rem;
+    display: flex;
+    vertical-align: middle;
+  }
+
+  .peaked-roof-image {
+    width: 100%;
+    vertical-align: top;
+    height: 100%;
   }
 
   .box12 {
