@@ -327,6 +327,18 @@ p{
     height: 100%;
   }
 
+  .wall-image-container {
+    width: 24rem;
+    display: flex;
+    vertical-align: middle;
+  }
+
+  .wall-image {
+    width: 100%;
+    vertical-align: top;
+    height: 100%;
+  }
+
 
   .box8 { /*wall pic*/
     grid-column-start: 2;
