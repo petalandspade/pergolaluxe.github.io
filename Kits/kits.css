@@ -509,5 +509,18 @@ p{
     grid-column-end: 4;
     grid-row-start: 8;
     grid-row-end: 9;
+    background-color: white;
+  }
+
+  .triangle-image-container {
+    width: 24rem;
+    display: flex;
+    vertical-align: middle;
+  }
+
+  .triangle-image {
+    width: 100%;
+    vertical-align: top;
+    height: 100%;
   }
     
