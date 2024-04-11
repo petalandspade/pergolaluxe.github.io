@@ -556,3 +556,13 @@ p{
   font-size: 2rem;
   background-color: #9DB2BF;
 }
+
+.box18 {
+  grid-column: 2 / 3;
+  grid-row: 11 /12
+}
+
+.box19 {
+grid-column: 3 / 4;
+grid-row: 11 / 12;
+}
