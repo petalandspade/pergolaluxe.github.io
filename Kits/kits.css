@@ -558,11 +558,15 @@ p{
 }
 
 .box18 {
-  grid-column: 2 / 3;
-  grid-row: 11 /12
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 11;
+  grid-row-end: 12;
 }
 
 .box19 {
-grid-column: 3 / 4;
-grid-row: 11 / 12;
+grid-column-start: 3;
+grid-column-end: 4;
+grid-row-start: 11;
+grid-row-end: 12;
 }
