@@ -570,3 +570,62 @@ grid-column-end: 4;
 grid-row-start: 11;
 grid-row-end: 12;
 }
+
+.cedar-title {
+  justify-content: flex-start;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  font-family: 'raleway';
+}
+
+.toja-price {
+  font-family: 'raleway';
+  font-weight: 400;
+  font-family: 'raleway';
+}
+
+.cedar-subtitle {
+  font-weight: 300;
+  font-family: 'raleway';
+}
+
+.toja-pros {
+  font-family: 'raleway';
+  color:#DDE6ED;
+}
+
+.toja__feature {
+  font-family: 'raleway';
+  color: #9DB2BF;
+  font-size: 1.2rem;
+}
+
+
+.box20 { 
+grid-column-start: 2;
+grid-column-end: 3;
+grid-row-start: 12;
+grid-row-end: 13;
+}
+
+.box21 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 12;
+  grid-row-end: 13;
+}
+
+.box22 { 
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 13;
+  grid-row-end: 14;
+  }
+  
+  .box23 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 13;
+    grid-row-end: 14;
+  }
