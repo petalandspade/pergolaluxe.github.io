@@ -170,7 +170,7 @@ p{
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
-    grid-row-end: 9;
+    grid-row-end: 23;
     background-color: #9DB2BF;
     font-family: 'raleway';
     font-weight: 400;
@@ -565,7 +565,7 @@ p{
 }
 
 .bd-image-container {
-  width: 24rem;
+  width: 30rem;
   display: flex;
   vertical-align: middle;
   height: 22rem;
@@ -622,11 +622,54 @@ grid-row-start: 12;
 grid-row-end: 13;
 }
 
+.cedar-title {
+  justify-content: flex-start;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  font-family: 'raleway';
+}
+
+.toja-price {
+  font-family: 'raleway';
+  font-weight: 400;
+  font-family: 'raleway';
+}
+
+.cedar-subtitle {
+  font-weight: 300;
+  font-family: 'raleway';
+}
+
+.toja-pros {
+  font-family: 'raleway';
+  color:#DDE6ED;
+}
+
+.toja__feature {
+  font-family: 'raleway';
+  color: #9DB2BF;
+  font-size: 1.2rem;
+}
+
 .box21 {
   grid-column-start: 3;
   grid-column-end: 4;
   grid-row-start: 12;
   grid-row-end: 13;
+}
+
+.bd-image-container {
+  width: 30rem;
+  display: flex;
+  vertical-align: middle;
+  height: 22rem;
+}
+
+.bd-image {
+  width: 100%;
+  vertical-align: top;
+  height: 100%;
 }
 
 .box22 { 
