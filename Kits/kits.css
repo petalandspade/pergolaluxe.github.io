@@ -628,6 +628,8 @@ grid-row-end: 13;
   font-size: 2rem;
   font-weight: 400;
   font-family: 'raleway';
+  justify-content: flex-start;
+  text-align: left;
 }
 
 .toja-price {
