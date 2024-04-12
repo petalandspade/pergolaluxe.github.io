@@ -564,6 +564,19 @@ p{
   grid-row-end: 12;
 }
 
+.bd-image-container {
+  width: 24rem;
+  display: flex;
+  vertical-align: middle;
+  height: 22rem;
+}
+
+.bd-image {
+  width: 100%;
+  vertical-align: top;
+  height: 100%;
+}
+
 .box19 {
 grid-column-start: 3;
 grid-column-end: 4;
