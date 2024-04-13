@@ -196,6 +196,15 @@ p{
     top: 140px;
   }
 
+  .navigation-menu a:hover {
+      color:#DDE6ED;
+  }
+
+  .navigation-menu a:active {
+    color:#DDE6ED;
+    text-decoration: none;
+  }
+
   .li {
     font-family: 'raleway';
     font-weight: 400;
