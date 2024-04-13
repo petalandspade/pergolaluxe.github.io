@@ -746,3 +746,33 @@ grid-row-end: 13;
     vertical-align: top;
     height: 100%;
   }
+
+    /*lowes title*/
+.box24 {
+  grid-column-start:2;
+  grid-column-end: 4;
+  grid-row-start: 14;
+  grid-row-end: 15;
+  font-family: 'raleway';
+  font-size: 3rem;
+  color:#9DB2BF;
+  text-align: center;
+  font-weight: 600;
+}
+
+/*lowes subtitle*/
+.box25 {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 15;
+  grid-row-end: 16;
+  font-family: 'raleway';
+  font-weight: 200;
+  color: #27374D;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  align-items: center;
+  font-size: 2rem;
+  background-color: #9DB2BF;
+}
