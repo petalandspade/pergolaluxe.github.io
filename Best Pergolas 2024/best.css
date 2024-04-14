@@ -99,6 +99,13 @@ p{
     text-align: center;
 }
 
+.intro-paragraph {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
 .basic-paragraph {
     font-family: "raleway";
     font-size: 1.3rem;
@@ -116,6 +123,13 @@ p{
         vertical-align: middle;
         box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
         margin-left: 5.6rem;
+}
+
+.opening-image {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
 }
 
 .image-one {
