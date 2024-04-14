@@ -776,3 +776,62 @@ grid-row-end: 13;
   font-size: 2rem;
   background-color: #9DB2BF;
 }
+
+.box26 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 16;
+  grid-row-end: 17;
+}
+
+.bjorn-image-container {
+  width: 30rem;
+  display: flex;
+  vertical-align: middle;
+  height: 22rem;
+}
+
+.bjorn-image {
+  width: 100%;
+  vertical-align: top;
+  height: 100%;
+}
+
+.box27 {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 17;
+  grid-row-end: 18;
+}
+
+.bjorn-title {
+  justify-content: flex-start;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  font-family: 'raleway';
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.toja-price {
+  font-family: 'raleway';
+  font-weight: 400;
+  font-family: 'raleway';
+}
+
+.bjorn-subtitle {
+  font-weight: 300;
+  font-family: 'raleway';
+}
+
+.toja-pros {
+  font-family: 'raleway';
+  color:#DDE6ED;
+}
+
+.toja__feature {
+  font-family: 'raleway';
+  color: #9DB2BF;
+  font-size: 1.2rem;
+}
