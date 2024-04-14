@@ -196,11 +196,11 @@ p{
     top: 140px;
   }
 
-  .navigation-menu a:hover {
+  a:hover {
       color:#DDE6ED;
   }
 
-  .navigation-menu a:active {
+  a:active {
     color:#DDE6ED;
     text-decoration: none;
   }
