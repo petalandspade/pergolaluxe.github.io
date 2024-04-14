@@ -79,7 +79,19 @@ p{
 
 
 
+
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  grid-template-rows:2rem 2rem 2rem 2rem 2rem;
+}
+
+
 .article-title {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
     font-family: "Bodoni Moda", serif;
     font-weight: bold;
     font-style: italic;
