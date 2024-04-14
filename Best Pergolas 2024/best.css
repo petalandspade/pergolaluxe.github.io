@@ -174,6 +174,9 @@ p{
 
   .top-list-container {
     margin: 0rem 5.2rem;
+    grid-column-start: 1;
+    grid-row-start: 4;
+    grid-row-end: 5;
   }
 
   li {
