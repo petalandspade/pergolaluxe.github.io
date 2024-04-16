@@ -108,10 +108,7 @@ p{
   margin: 0 6.5rem;
 }
 
-.first-image {
-  font-size: 1.25rem;
-  margin: 0rem 3rem;
-}
+
 
 .first-image-container {
       width: 55%;
@@ -123,6 +120,11 @@ p{
       grid-column-end: 2;
       grid-row-start: 3;
       grid-row-end: 4;
+}
+
+.first-image {
+  font-size: 1.25rem;
+  margin: 0rem 3rem;
 }
 
 .image-one {
