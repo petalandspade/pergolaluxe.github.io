@@ -80,7 +80,7 @@ p{
 .grid-wrapper {
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-template-rows: 8rem 10rem 15rem 30rem 30rem 30rem 30rem 30rem 30rem;
+    grid-template-rows: 8rem 10rem 30rem 30rem 30rem 30rem 30rem 30rem 30rem;
   }
 
   .article-title {
@@ -175,4 +175,11 @@ li {
   color: #9DB2BF;
   margin-bottom: 1rem;
   text-decoration: underline;
+}
+
+.purple-leaf-choice-info {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 5;
+  grid-row-end: 6;
 }
