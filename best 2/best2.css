@@ -80,7 +80,7 @@ p{
 .grid-wrapper {
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-template-rows:30rem 30rem 30rem 30rem 30rem 30rem 30rem 30rem 30rem;
+    grid-template-rows: 10rem 20rem 30rem 30rem 30rem 30rem 30rem 30rem 30rem;
   }
 
   .article-title {
@@ -123,6 +123,11 @@ p{
       grid-column-end: 2;
       grid-row-start: 3;
       grid-row-end: 4;
+}
+
+.image-one {
+  width: 100%;
+  vertical-align: top;
 }
 
 .first-image-container-info {
