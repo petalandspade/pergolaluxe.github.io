@@ -80,7 +80,7 @@ p{
 .grid-wrapper {
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-template-rows: 8rem 10rem 30rem 20rem 30rem 30rem 30rem 30rem 30rem;
+    grid-template-rows: 8rem 10rem 30rem 20rem 20rem 40rem 30rem 30rem 30rem;
   }
 
   .article-title {
@@ -320,4 +320,45 @@ li {
   grid-column-end: 3;
   grid-row-start: 7;
   grid-row-end: 8;
+}
+
+.grid-box-3 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start:7;
+  grid-row-end: 8;
+}
+
+.backyard-discovery-info-container {
+  text-align: left;
+  padding: 1.25rem;
+  display: inline-block;
+  vertical-align: middle;
+  width: 45%;
+  /*margin-left: 5.6rem;*/
+}
+
+.backyard-discovery-photo-container {
+  width: 40%;
+  display: inline-block;
+  vertical-align: middle;
+  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
+  margin: 1rem 8rem;
+}
+
+.backyard-discovery-photo {
+  width: 100%;
+  vertical-align: top;
+}
+
+.backyarddiscoveryprice {
+  font-size: 2rem;
+  color: #DDE6ED;
+  Font-family: "bodoni moda";
+}
+
+.backyard-discovery-list {
+  font-size: 1.5rem;
+  font-family: "raleway";
+  color: #DDE6ED;
 }
