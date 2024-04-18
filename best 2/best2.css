@@ -80,7 +80,7 @@ p{
 .grid-wrapper {
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-template-rows: 8rem 10rem 30rem 20rem 20rem 40rem 30rem 30rem 30rem;
+    grid-template-rows: 8rem 10rem 30rem 20rem 20rem 40rem 20rem 20rem 30rem;
   }
 
   .article-title {
@@ -334,8 +334,6 @@ li {
   padding: 1.25rem;
   display: inline-block;
   vertical-align: middle;
-  width: 45%;
-  /*margin-left: 5.6rem;*/
 }
 
 .backyard-discovery-photo-container {
