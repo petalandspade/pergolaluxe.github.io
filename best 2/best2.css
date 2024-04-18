@@ -80,7 +80,7 @@ p{
 .grid-wrapper {
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-template-rows: 8rem 10rem 30rem 20rem 20rem 40rem 20rem 20rem 30rem;
+    grid-template-rows: 8rem 10rem 30rem 20rem 20rem 40rem 20rem 10rem 30rem;
   }
 
   .article-title {
