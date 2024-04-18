@@ -80,7 +80,7 @@ p{
 .grid-wrapper {
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-template-rows: 8rem 10rem 30rem 20rem 20rem 40rem 20rem 10rem 30rem;
+    grid-template-rows: 8rem 10rem 30rem 20rem 17rem 41rem 13rem 10rem 30rem;
   }
 
   .article-title {
@@ -101,6 +101,7 @@ p{
   grid-row-start: 2;
   grid-row-end: 3;
   text-align: center;
+  margin-left: 2rem;
 }
 
 .basic-paragraph {
@@ -118,6 +119,7 @@ p{
   grid-row-start: 3;
   grid-row-end: 4;
   width: 100%;
+  margin-left: 2rem;
 }
 
 .first-image-container-info {
@@ -128,6 +130,7 @@ p{
   text-align: right;
   font-family: 'raleway';
   font-size: 1.3rem;
+  margin-left: 2rem;
 }
 
 .h2-title {
@@ -178,6 +181,7 @@ li {
   grid-column-end: 3;
   grid-row-start: 5;
   grid-row-end: 6;
+  margin-left: 2rem;
 }
 
 
@@ -199,6 +203,7 @@ li {
   display: flex;
   vertical-align: middle;
   width: 100%;
+  margin-left: 2rem;
 }
 
 .plan__list {
@@ -320,6 +325,7 @@ li {
   grid-column-end: 3;
   grid-row-start: 7;
   grid-row-end: 8;
+  margin-left: 2rem;
 }
 
 .grid-box-3 {
@@ -331,7 +337,7 @@ li {
 
 .backyard-discovery-info-container {
   text-align: left;
-  padding: 1.25rem;
+  margin-left: 2rem;
   display: inline-block;
   vertical-align: middle;
 }
