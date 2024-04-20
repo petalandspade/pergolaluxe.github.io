@@ -376,4 +376,5 @@ li {
   grid-column-end: 2;
   grid-row-start: 9;
   grid-row-end: 10;
+  margin-left: 2rem;
 }
