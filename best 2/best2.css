@@ -379,6 +379,13 @@ li {
   margin-left: 2rem;
 }
 
+.purple-leaf-louvered-info-container {
+  text-align: left;
+  margin-left: 2rem;
+  display: inline-block;
+  vertical-align: middle;
+}
+
 .grid-box-6 {
   grid-column-start: 1;
   grid-column-end: 2;
