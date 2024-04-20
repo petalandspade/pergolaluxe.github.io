@@ -370,3 +370,10 @@ li {
   vertical-align: top;
   height: 30rem;
 }
+
+.grid-box-5 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 9;
+  grid-row-end: 10;
+}
