@@ -366,3 +366,19 @@ li {
   font-family: "raleway";
   color: #DDE6ED;
 }
+
+.backyard-discovery-photo-container {
+  display: flex;
+  vertical-align: middle;
+  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 7;
+  grid-row-end: 8;
+}
+
+.backyard-discovery-photo {
+  width: 100%;
+  vertical-align: top;
+  height: 100%;
+}
