@@ -392,3 +392,18 @@ li {
   vertical-align: middle;
 }
 
+.purple-leaf-louvered-photo-container {
+  display: flex;
+  vertical-align: middle;
+  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 11;
+  grid-row-end: 12;
+}
+
+.purple-leaf-louvered-photo {
+  width: 100%;
+  vertical-align: top;
+  height: 100%;
+}
