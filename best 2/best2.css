@@ -391,5 +391,9 @@ li {
   margin-left: 2rem;
   display: inline-block;
   vertical-align: middle;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 12;
+  grid-row-end: 13;
 }
 
