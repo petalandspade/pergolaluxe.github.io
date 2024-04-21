@@ -379,11 +379,11 @@ li {
   margin-left: 2rem;
 }
 
-.purple-leaf-louvered-div-pro {
+.grid-box-6 {
   grid-column-start: 1;
   grid-column-end: 2;
-  grid-row-start: 11;
-  grid-row-end: 12;
+  grid-row-start: 13;
+  grid-row-end: 14;
 }
 
 .purple-leaf-louvered-info-container {
@@ -391,9 +391,5 @@ li {
   margin-left: 2rem;
   display: inline-block;
   vertical-align: middle;
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 12;
-  grid-row-end: 13;
 }
 
