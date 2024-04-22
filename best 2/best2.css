@@ -433,3 +433,9 @@ li {
   grid-row-start: 13;
   grid-row-end: 14;
 }
+
+.yardistry-gazebo-photo {
+  width: 100%;
+  vertical-align: top;
+  height: 100%;
+}
