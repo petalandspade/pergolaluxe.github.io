@@ -81,7 +81,7 @@ p{
     display: grid;
     grid-template-columns: 45% 45%;
     grid-template-rows: 8rem 10rem 30rem 20rem 17rem 41rem 13rem 10rem 30rem 20rem 45rem 20rem 50rem 
-    30rem 30rem 30rem 30rem 30rem;
+    20rem 30rem 30rem 30rem 30rem;
     grid-column-gap: 5rem;
   }
 
@@ -455,4 +455,20 @@ li {
   grid-row-start: 15;
   grid-row-end: 16;
   margin-left: 2rem;
+}
+
+.yardistry-madison-photo-container {
+  display: flex;
+  vertical-align: middle;
+  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 15;
+  grid-row-end: 16;
+}
+
+.yardistry-madison-photo {
+  width: 100%;
+  vertical-align: top;
+  height: 100%;
 }
