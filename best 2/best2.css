@@ -80,7 +80,7 @@ p{
 .grid-wrapper {
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-template-rows: 8rem 10rem 30rem 20rem 17rem 41rem 13rem 10rem 30rem 20rem 45rem 30rem 30rem 
+    grid-template-rows: 8rem 10rem 30rem 20rem 17rem 41rem 13rem 10rem 30rem 20rem 45rem 20rem 50rem 
     30rem 30rem 30rem 30rem 30rem;
     grid-column-gap: 5rem;
   }
@@ -446,5 +446,13 @@ li {
   grid-column-end: 3;
   grid-row-start: 14;
   grid-row-end: 15;
+  margin-left: 2rem;
+}
+
+.grid-box-12 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 15;
+  grid-row-end: 16;
   margin-left: 2rem;
 }
