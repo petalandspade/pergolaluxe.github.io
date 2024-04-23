@@ -472,3 +472,35 @@ li {
   vertical-align: top;
   height: 100%;
 }
+
+.grid-box-14 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 16;
+  grid-row-end: 17;
+  margin-left: 2rem;
+}
+
+.grid-box-15 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 17;
+  grid-row-end: 18;
+  margin-left: 2rem;
+}
+
+.luxury-pergola-pro-photo-container {
+  display: flex;
+  vertical-align: middle;
+  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 17;
+  grid-row-end: 18;
+}
+
+.luxury-pergola-pro-photo {
+  width: 100%;
+  vertical-align: top;
+  height: 100%;
+}
