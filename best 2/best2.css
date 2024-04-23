@@ -80,8 +80,8 @@ p{
 .grid-wrapper {
     display: grid;
     grid-template-columns: 45% 45%;
-    grid-template-rows: 5rem 7rem 30rem 20rem 14rem 41rem 13rem 10rem 30rem 20rem 45rem 20rem 50rem 
-    20rem 45rem 20rem 30rem 30rem;
+    grid-template-rows: 5rem 7rem 30rem 20rem 13rem 41rem 10rem 10rem 30rem 13rem 47rem 16rem 53rem 
+    15rem 47rem 13rem 30rem 30rem;
     grid-column-gap: 3rem;
     grid-row-gap: 3rem;
   }
@@ -238,7 +238,7 @@ li {
 
 .plan__title {
   color: #27374D;
-  font-family: 'raleway,' sans-serif;
+  font-family: 'raleway';
   font-size: 2.5rem;
 }
 
