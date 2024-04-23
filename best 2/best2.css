@@ -15,6 +15,34 @@ p{
     color: #DDE6ED;
 }
 
+#main-logo {
+  font-family: "Bodoni Moda", serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 2rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0rem;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 40rem) {
+  #main-logo {
+      font-size: 2rem;
+  }
+}
+
+.section-title h2 {
+font-family: "Raleway", sans-serif;
+font-size: 3rem;
+font-style: normal;
+font-weight: lighter;
+text-align: center;
+box-sizing: border-box;
+margin: 0;
+padding:0;
+}
+
 .main-header {
   display: flex;
   align-items: center;
@@ -76,6 +104,7 @@ p{
 .main-nav__item--cta a:hover {
   color: #27374D;
 }
+
 
 .grid-wrapper {
     display: grid;
