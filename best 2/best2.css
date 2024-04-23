@@ -33,7 +33,7 @@ p{
 }
 
 .section-title h2 {
-font-family: "Raleway", sans-serif;
+font-family: 'Raleway', sans-serif;
 font-size: 3rem;
 font-style: normal;
 font-weight: lighter;
@@ -52,7 +52,7 @@ padding:0;
 
 
 .main-header__brand {
-  font-family: "raleway", sans-serif;
+  font-family: 'raleway', sans-serif;
   color: #9DB2BF;
   font-size: 2rem;
   text-decoration: none;
@@ -71,7 +71,7 @@ padding:0;
   padding: 0;
   margin: 0;
   list-style: none;
-  font-family: "raleway", sans-serif;
+  font-family: 'raleway', sans-serif;
   vertical-align: text-top;
   display:flex;
   align-items: center;
