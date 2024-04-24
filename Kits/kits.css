@@ -200,7 +200,7 @@ padding:0;
       color:#DDE6ED;
   }
 
-  a:active {
+  li a:active {
     color:#DDE6ED;
     text-decoration: none;
   }
