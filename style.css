@@ -167,7 +167,6 @@ p{
     background-repeat: no-repeat;
     box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
     background-size: 100%; 
-    text-decoration: none;
 }
 
 .faq1 h2 {
@@ -175,6 +174,9 @@ p{
     font-size: 2rem;
     background-color: #DDE6ED;
     color:#27374D;
+}
+
+.faq1 a {
     text-decoration: none;
 }
 
