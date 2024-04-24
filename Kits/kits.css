@@ -200,9 +200,13 @@ padding:0;
       color:#DDE6ED;
   }
 
-  li a:active {
+  a:active {
     color:#DDE6ED;
     text-decoration: none;
+  }
+
+  a:visited {
+    color:#DDE6ED; 
   }
 
   .li {
