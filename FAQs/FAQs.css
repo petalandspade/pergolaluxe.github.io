@@ -116,3 +116,15 @@ p{
 .main-nav__item--cta a:hover {
     color: #27374D;
 }
+
+.faq-title {
+    color: #9DB2BF;
+    font-size: 2rem;
+    font-family: 'raleway';
+}
+
+.basic-paragraph {
+    color: #DDE6ED;
+    font-size: 1rem;
+    font-family: 'raleway';
+}
