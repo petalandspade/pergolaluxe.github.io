@@ -242,8 +242,9 @@ p{
     position: relative;
     box-sizing: border-box;
     margin-top:8rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
     font-family: "raleway", sans-serif;
 }
 
