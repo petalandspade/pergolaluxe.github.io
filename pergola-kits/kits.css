@@ -211,10 +211,12 @@ padding:0;
 
   .box1 a:active {
     color:#334766;
+    text-decoration: none;
   }
 
   .box1 a:visited {
     color:#334766;
+    text-decoration: none;
   }
 
   .li {
