@@ -147,6 +147,12 @@ p{
     bottom: 5%;
     left: 5%;
     color: #334766;
+    text-decoration: none:
+}
+
+#product-overview a {
+    color:#334766;
+    text-decoration: none;
 }
 
 .grid-container {
@@ -255,8 +261,9 @@ footer {
 
 footer a {
     color: #9DB2BF;
-    font-size: 1%;
+    font-size: 1rem;
     font-family: 'raleway';
     margin-left: 5rem;
     text-align: center;
+    margin-top: 2rem;
 }
