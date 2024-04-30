@@ -267,6 +267,8 @@ p{
 footer {
     background-color: #334766;
     height: 2.5rem;
+    display:flex;
+    align-items: center;
 }
 
 footer a {
