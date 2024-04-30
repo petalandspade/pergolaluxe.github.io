@@ -155,6 +155,16 @@ p{
     text-decoration: none;
 }
 
+#product-overview a:active {
+    color:#334766;
+    text-decoration: none;
+}
+
+#product-overview a:visited {
+    color:#334766;
+    text-decoration: none;
+}
+
 .grid-container {
     margin-top: 5rem;
     margin-left: 15vw;
