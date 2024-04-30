@@ -204,7 +204,8 @@ padding:0;
   }
 
   a:visited {
-    color: #27374D; 
+    color: #DDE6ED; 
+    text-decoration: none;
   }
 
   .li {
