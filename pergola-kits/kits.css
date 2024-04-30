@@ -212,6 +212,10 @@ padding:0;
     color:#334766;
   }
 
+  .box1 a:visited {
+    color:#334766;
+  }
+
   .li {
     font-family: 'raleway';
     font-weight: 400;
