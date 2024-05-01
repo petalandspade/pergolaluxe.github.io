@@ -114,7 +114,7 @@ padding:0;
     display: grid;
     grid-template-columns: 45% 45%;
     grid-template-rows: 5rem 7rem 30rem 20rem 13rem 41rem 10rem 10rem 30rem 13rem 47rem 16rem 53rem 
-    15rem 47rem 13rem 30rem 30rem;
+    15rem 47rem 13rem 30rem 30rem 30rem;
     grid-column-gap: 3rem;
     grid-row-gap: 3rem;
   }
@@ -540,6 +540,10 @@ footer {
   height: 2.5rem;
   display:flex;
   align-items: center;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 18;
+  grid-row-end: 19;
 }
 
 footer a {

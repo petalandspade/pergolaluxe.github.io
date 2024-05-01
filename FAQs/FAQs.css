@@ -142,6 +142,7 @@ footer {
     height: 2.5rem;
     display:flex;
     align-items: center;
+    margin-top: 6rem;
 }
 
 footer a {
