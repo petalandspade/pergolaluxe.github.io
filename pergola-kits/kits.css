@@ -185,7 +185,7 @@ padding:0;
     margin-left: .4rem;
     position: sticky;
     top: 50px;
-    color:#334766;
+    color:#27374D;
   }
 
   .navigtion-menu {
@@ -210,12 +210,16 @@ padding:0;
   }
 
   .box1 a:active {
-    color:#334766;
+    color:#27374D;
     text-decoration: none;
   }
 
   .box1 a:visited {
-    color:#334766;
+    color:#27374D;
+    text-decoration: none;
+  }
+
+  .navigation-menu a {
     text-decoration: none;
   }
 
