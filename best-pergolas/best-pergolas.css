@@ -282,12 +282,11 @@ li {
   font-size: 2rem;
 }
 
-
-
 .specifications {
   font-size: 1.8rem;
   font-family: 'raleway';
   text-decoration: underline;
+  color:#27374D;
 }
 
 .plan--highlighted .plan__title {
