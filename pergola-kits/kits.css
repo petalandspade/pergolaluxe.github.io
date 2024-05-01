@@ -920,3 +920,19 @@ grid-row-end: 13;
   vertical-align: top;
   height: 100%;
 }
+
+footer {
+  background-color: #334766;
+  height: 2.5rem;
+  display:flex;
+  align-items: center;
+}
+
+footer a {
+  color: #9DB2BF;
+  font-size: 1rem;
+  font-family: 'raleway';
+  margin-left: 5rem;
+  text-align: center;
+  margin-top: 2rem;
+}
