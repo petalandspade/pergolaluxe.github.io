@@ -131,6 +131,8 @@ p{
     box-shadow:3px 3px 5px 3px rgba(0,0,0,0.3);
 }
 
+
+
 #product-overview h2 {
     font-family: "raleway", sans-serif;
     font-size: 3rem;
@@ -186,6 +188,96 @@ h3 a:visited {
     grid-template-rows: 30rem 30rem;
     grid-column-gap: 4rem;
     grid-row-gap: 3rem
+
+}
+
+@media (max-width: 40rem) {
+    .grid-container {
+        margin-top: 5rem;
+        margin-left: 15vw;
+        display: grid;
+        grid-template-columns: 30rem 30rem 30rem 30rem;
+        grid-template-rows: 30rem 30rem 30rem 30rem;
+        grid-column-gap: 4rem;
+        grid-row-gap: 3rem
+    
+    }
+    .faq1 {
+        background-image: url(./images/louvered\ pergola\ thumnail.png);
+        grid-column-start: 1;
+        grid-column-end: 2;
+        background-repeat: no-repeat;
+        box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
+        background-size: 100%; 
+    }
+    
+    .faq1 h2 {
+        font-family: "raleway", sans-serif;
+        font-size: 2rem;
+        background-color: #DDE6ED;
+        color:#27374D;
+    }
+    
+    .faq1 a {
+        text-decoration: none;
+    }
+    
+    .faq2 {
+        background-image: url(./images/pergola\ with\ roof\ thumnail.png);
+        grid-column-start: 1;
+        grid-column-end: 2;
+        background-repeat: no-repeat;
+        box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
+        background-size: 100%; 
+    }
+    
+    .faq2 h2 { 
+        font-family: "raleway", sans-serif;
+        font-size: 2rem;
+        background-color: #DDE6ED;
+        color:#27374D;
+    }
+    
+    .faq3 {
+        background-image:url(./images/kits\ thumnail.png);
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 3;
+        background-repeat: no-repeat;
+        box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
+        background-size: 100%; 
+    }
+    
+    .faq3 a {
+        text-decoration: none;
+    }
+    
+    .faq3 h2 {
+        font-family: "raleway", sans-serif;
+        font-size: 2rem;
+        background-color: #DDE6ED;
+        color:#27374D;
+    }
+    
+    .faq4 {
+        background-image:url(./images/\ ideas\ thumnail.png);
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 4;
+        grid-row-end: 5;
+        background-repeat: no-repeat;
+        box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
+        background-size: 100%; 
+    }
+    
+    .faq4 h2{
+        font-family: "raleway", sans-serif;
+        font-size: 2rem;
+        background-color: #DDE6ED;
+        color:#27374D;
+    }
+
 
 }
 
