@@ -191,7 +191,7 @@ h3 a:visited {
 
 }
 
-@media (max-width: 40rem) {
+@media (min-width: 300px, max-width: 40rem) {
     .grid-container {
         margin-top: 5rem;
         margin-left: 15vw;
@@ -277,8 +277,6 @@ h3 a:visited {
         background-color: #DDE6ED;
         color:#27374D;
     }
-
-
 }
 
 .faq1 {
