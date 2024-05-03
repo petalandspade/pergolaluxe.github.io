@@ -191,7 +191,7 @@ h3 a:visited {
 
 }
 
-@media (min-width: 300px, max-width: 40rem) {
+@media (min-width: 300px) (max-width: 40rem) {
     .grid-container {
         margin-top: 5rem;
         margin-left: 15vw;
