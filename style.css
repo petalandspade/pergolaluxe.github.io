@@ -335,4 +335,8 @@ footer a {
         grid-row-start: 4;
         grid-row-end: 5;
     }
+
+    .faq4 h2 {
+        margin-right: 4rem;
+    }
 }
