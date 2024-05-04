@@ -339,4 +339,16 @@ footer a {
     .faq4 h2 {
         margin-right: 4rem;
     }
+
+    .first-paragraph {
+        color:#DDE6ED;
+        font-size: 1.5rem;
+        position: relative;
+        box-sizing: border-box;
+        margin-top: 4rem;
+        margin-left: 5rem;
+        margin-bottom: 4rem;
+        font-family: "raleway", sans-serif;
+        text-align: center;
+    }
 }
