@@ -149,7 +149,7 @@ p{
     bottom: 5%;
     left: 5%;
     color: #27374D;
-    text-decoration: none:
+    text-decoration: none;
 }
 
 #product-overview h3 {
@@ -218,7 +218,7 @@ h3 a:visited {
     grid-column-start: 2;
     grid-column-end: 3;
     background-repeat: no-repeat;
-    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
+    /*box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)*/
     background-size: 100%; 
 }
 
@@ -236,7 +236,7 @@ h3 a:visited {
     grid-row-start: 2;
     grid-row-end: 3;
     background-repeat: no-repeat;
-    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
+    /*box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)*/
     background-size: 100%; 
 }
 
@@ -258,7 +258,7 @@ h3 a:visited {
     grid-row-start: 2;
     grid-row-end: 3;
     background-repeat: no-repeat;
-    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
+    /*box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)*/
     background-size: 100%; 
 }
 
