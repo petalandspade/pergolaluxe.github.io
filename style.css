@@ -310,6 +310,14 @@ footer a {
         grid-row-end: 2;
     }
 
+    .faq1 h2 {
+        font-family: "raleway", sans-serif;
+        font-size: 2rem;
+        background-color: #DDE6ED;
+        margin-right: 4rem;
+        color:#27374D;
+    }
+
     .faq2 {
         grid-column-start: 1;
         grid-row-start: 2;
