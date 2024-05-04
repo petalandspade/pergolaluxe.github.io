@@ -191,12 +191,7 @@ h3 a:visited {
 
 }
 
-@media (max-width: 40rem) {
-    .grid-container {
-        grid-template-columns: 30rem;
-        grid-template-rows: 30rem 30rem 30rem 30rem;
-    }
-}
+
 
 .faq1 {
     background-image: url(./images/louvered\ pergola\ thumnail.png);
@@ -300,4 +295,36 @@ footer a {
     margin-left: 5rem;
     text-align: center;
     margin-top: 2rem;
+}
+
+
+@media (max-width: 40rem) {
+    .grid-container {
+        grid-template-columns: 30rem;
+        grid-template-rows: 30rem 30rem 30rem 30rem;
+    }
+
+    .faq1 {
+        grid-column-start:1;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .faq2 {
+        grid-column-start: 1;
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+
+    .faq3 {
+        grid-column-start: 1;
+        grid-row-start: 3;
+        grid-row-end: 4;
+    }
+
+    .faq4 {
+        grid-column-start: 1;
+        grid-row-start: 4;
+        grid-row-end: 5;
+    }
 }
