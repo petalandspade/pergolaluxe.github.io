@@ -306,12 +306,14 @@ footer a {
 
     .faq1 {
         grid-column-start:1;
+        grid-column-end: 2;
         grid-row-start: 1;
         grid-row-end: 2;
     }
 
     .faq2 {
         grid-column-start: 1;
+        grid-column-end: 2;
         grid-row-start: 2;
         grid-row-end: 3;
     }
@@ -320,18 +322,19 @@ footer a {
         font-family: "raleway", sans-serif;
         font-size: 2rem;
         background-color: #DDE6ED;
-        margin-right: 4rem;
         color:#27374D;
     }
 
     .faq3 {
         grid-column-start: 1;
+        grid-column-end: 2;
         grid-row-start: 3;
         grid-row-end: 4;
     }
 
     .faq4 {
         grid-column-start: 1;
+        grid-column-end: 2;
         grid-row-start: 4;
         grid-row-end: 5;
     }
