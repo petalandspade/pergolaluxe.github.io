@@ -198,7 +198,7 @@ h3 a:visited {
     grid-column-start: 1;
     grid-column-end: 2;
     background-repeat: no-repeat;
-    box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)
+    /*box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.3)*/
     background-size: 100%; 
 }
 
