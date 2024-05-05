@@ -360,3 +360,73 @@ footer a {
         width: 45rem;
     }
 }
+
+@media (max-width: 31rem) {
+    .main-header {
+        width: 45rem;
+    }
+
+    #product-overview {
+        background-image: linear-gradient(to top, rgba(255, 255, 255, 0.6) 10%, transparent), url("images/springpergola.png");
+        background-size: 100%;
+        width: 180vw;
+        height: 80vh;
+        padding: 0px;
+        margin: auto;
+        background-repeat: no-repeat;
+        position: relative;
+        /*top: 5rem;*/
+        border: black solid 5px;
+        box-shadow:3px 3px 5px 3px rgba(0,0,0,0.3);
+    }
+    
+    .grid-container {
+        grid-template-columns: 30rem;
+        grid-template-rows: 30rem 30rem 30rem 30rem;
+    }
+
+    .faq1 {
+        grid-column-start:1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+
+    .faq2 {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+
+    .faq3 {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 3;
+        grid-row-end: 4;
+    }
+
+    .faq4 {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 4;
+        grid-row-end: 5;
+    }
+
+    .first-paragraph {
+        color:#DDE6ED;
+        font-size: 1.5rem;
+        position: relative;
+        box-sizing: border-box;
+        margin-top: 4rem;
+        margin-left: 5rem;
+        margin-bottom: 4rem;
+        font-family: "raleway", sans-serif;
+        text-align: center;
+        width: 28rem;
+    }
+
+    footer {
+        width: 45rem;
+    }
+}
