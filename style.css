@@ -290,17 +290,16 @@ footer a {
     margin-top: 2rem;
 }
 
-
 @media (min-width: 20rem) and (max-width: 25rem) {
     .main-header {
         width: 45rem;
     }
 
     #product-overview {
-        background-image: linear-gradient(to top, rgba(255, 255, 255, 0.6) 10%, transparent), url("images/springpergola.png") center;
+        background-image: linear-gradient(to top, rgba(255, 255, 255, 0.6) 10%, transparent), url("images/springpergola.png");
         background-size: 100%;
         width: 180vw;
-        height: 70vh;
+        height: 50vh;
         padding: 0px;
         margin: auto;
         background-repeat: no-repeat;
