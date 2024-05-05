@@ -297,7 +297,7 @@ footer a {
     }
 
     #product-overview {
-        background-image: linear-gradient(to top, rgba(255, 255, 255, 0.6) 10%, transparent), url("images/springpergola.png");
+        background-image: linear-gradient(to top, rgba(255, 255, 255, 0.6) 10%, transparent), url("images/springpergola.png") center;
         background-size: 100%;
         width: 180vw;
         height: 70vh;
