@@ -338,4 +338,8 @@ footer a {
         font-family: "raleway", sans-serif;
         text-align: center;
     }
+
+    .footer {
+        width: 40rem;
+    }
 }
