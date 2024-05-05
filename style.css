@@ -360,7 +360,7 @@ footer a {
     }
 }
 
-@media (min-width: 20rem) and (max-width: 25rem) {
+@media (max-width: 25rem) {
     .main-header {
         width: 45rem;
     }
