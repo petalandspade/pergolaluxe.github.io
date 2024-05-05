@@ -291,7 +291,7 @@ footer a {
 }
 
 
-@media (max-width: 25rem) {
+@media (min-width: 20rem) and (max-width: 25rem) {
     .main-header {
         width: 45rem;
     }
