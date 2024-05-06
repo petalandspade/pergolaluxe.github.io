@@ -290,16 +290,17 @@ footer a {
     margin-top: 2rem;
 }
 
-@media (max-width: 25rem) {
+
+@media (max-width: 43rem) {
     .main-header {
-        width: 45rem;
+        width: 78rem;
     }
 
     #product-overview {
         background-image: linear-gradient(to top, rgba(255, 255, 255, 0.6) 10%, transparent), url("images/springpergola.png");
         background-size: 100%;
         width: 180vw;
-        height: 50vh;
+        height: 80vh;
         padding: 0px;
         margin: auto;
         background-repeat: no-repeat;
@@ -311,7 +312,7 @@ footer a {
     .grid-container {
         grid-template-columns: 30rem;
         grid-template-rows: 30rem 30rem 30rem 30rem;
-        margin-left: 30vw;
+        margin-left: 45vw;
     }
 
     .faq1 {
@@ -348,15 +349,15 @@ footer a {
         position: relative;
         box-sizing: border-box;
         margin-top: 4rem;
-        margin-left: 32vw;
+        margin-left: 35vw;
         margin-bottom: 4rem;
         font-family: "raleway", sans-serif;
         text-align: center;
-        width: 28rem;
+        width: 40rem;
     }
 
     footer {
-        width: 45rem;
+        width: 78rem;
     }
 }
 
@@ -430,17 +431,16 @@ footer a {
     }
 }
 
-
-@media (max-width: 43rem) {
+@media (max-width: 25rem) {
     .main-header {
-        width: 78rem;
+        width: 45rem;
     }
 
     #product-overview {
         background-image: linear-gradient(to top, rgba(255, 255, 255, 0.6) 10%, transparent), url("images/springpergola.png");
         background-size: 100%;
         width: 180vw;
-        height: 80vh;
+        height: 50vh;
         padding: 0px;
         margin: auto;
         background-repeat: no-repeat;
@@ -452,7 +452,7 @@ footer a {
     .grid-container {
         grid-template-columns: 30rem;
         grid-template-rows: 30rem 30rem 30rem 30rem;
-        margin-left: 45vw;
+        margin-left: 30vw;
     }
 
     .faq1 {
@@ -489,14 +489,14 @@ footer a {
         position: relative;
         box-sizing: border-box;
         margin-top: 4rem;
-        margin-left: 35vw;
+        margin-left: 32vw;
         margin-bottom: 4rem;
         font-family: "raleway", sans-serif;
         text-align: center;
-        width: 40rem;
+        width: 28rem;
     }
 
     footer {
-        width: 78rem;
+        width: 45rem;
     }
 }
