@@ -557,6 +557,217 @@ footer a {
 @media (max-width: 50rem) {
   .grid-wrapper {
     grid-template-columns: 80% 0;
+    grid-template-rows: 10rem 12rem 22rem 20rem 30rem 25rem 47rem 43rem 20rem 45rem 33rem 26rem 49rem 
+    38rem 32rem 13rem 30rem 30rem;
+  }
+
+  .article-title {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    width: 37rem;
+  }
+
+  .intro-paragraph {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    width: 35rem;
+  }
+
+  .first-image-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    width: 35rem;
+  }
+
+  .first-image-container-info {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    width: 35rem;
+    text-align: center;
+  }
+
+  .top-list-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    width: 35rem;
+  }
+
+  .purple-leaf-choice-info {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 6;
+    grid-row-end: 7;
+    width: 35rem;
+  }
+
+  .first-choice-div-pros {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 7;
+    grid-row-end: 8;
+  }
+
+  .purple-leaf-info-container {
+    width: 35rem;
+  }
+
+  .purple-leaf-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 8;
+    grid-row-end: 9;
+    width: 30rem;
+    height: 40rem;
+    margin-left: 4rem;
+  }
+
+  .second-choice-info {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 9;
+    grid-row-end: 10;
+    width: 35rem;
+  }
+
+  .backyard-discovery-div-pros {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 10;
+    grid-row-end: 11;
+  }
+
+  .backyard-discovery-info-container {
+    width: 35rem;
+  }
+
+  .backyard-discovery-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 11;
+    grid-row-end: 12;
+    width: 35rem;
+    height: 30rem;
+    margin-left: 2rem;
+  }
+
+  .grid-box-5 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 12;
+    grid-row-end: 13;
+    width: 35rem;
+  }
+
+  .grid-box-6 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 13;
+    grid-row-end: 14;
+  }
+
+  .purple-leaf-louvered-info-container {
+    width: 35rem;
+  }
+
+  .purple-leaf-louvered-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 14;
+    grid-row-end: 15;
+    width: 35rem;
+    height: 35rem;
+    margin-left: 2rem;
+  }
+
+  .grid-box-8 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 15;
+    grid-row-end: 16;
+    width: 35rem;
+  }
+
+  .grid-box-9 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 16;
+    grid-row-end: 17;
+  }
+
+  .yardistry-info-container {
+    width: 35rem;
+  }
+
+  .yardistry-gazebo-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 17;
+    grid-row-end: 18;
+  }
+
+  .grid-box-11 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 18;
+    grid-row-end: 19;
+  }
+
+  .grid-box-12 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 19;
+    grid-row-end: 20;
+  }
+
+  .yardistry-madison-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 20;
+    grid-row-end: 21;
+  }
+
+  .grid-box-14 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 21;
+    grid-row-end: 22;
+  }
+
+  .grid-box-15 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 22;
+    grid-row-end: 23;
+  }
+
+  .luxury-pergola-pro-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 23;
+    grid-row-end: 24;
+  }
+}
+
+
+
+
+
+
+
+
+@media (max-width: 27rem) {
+  .grid-wrapper {
+    grid-template-columns: 80% 0;
     grid-template-rows: 5rem 7rem 30rem 20rem 13rem 41rem 10rem 10rem 30rem 13rem 47rem 16rem 53rem 
     15rem 47rem 13rem 30rem 30rem;
   }
