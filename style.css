@@ -290,6 +290,38 @@ footer a {
     margin-top: 2rem;
 }
 
+@media (max-width: 50rem) {
+    .main-header {
+        width: 86rem;
+    }
+
+    #product-overview {
+        background-image: linear-gradient(to top, rgba(255, 255, 255, 0.6) 10%, transparent), url("images/springpergola.png");
+        background-size: 100%;
+        width: 180vw;
+        height: 80vh;
+        padding: 0px;
+        margin: auto;
+        background-repeat: no-repeat;
+        position: relative;
+        /*top: 5rem;*/
+        box-shadow:3px 3px 5px 3px rgba(0,0,0,0.3);
+    }
+
+    .grid-container {
+        margin-left: 20vw;
+    }
+
+    .first-paragraph {
+        width: 65rem;
+        text-align: center;
+    }
+
+    footer {
+        width: 86rem;
+    }
+}
+
 
 @media (max-width: 43rem) {
     .main-header {
@@ -500,3 +532,4 @@ footer a {
         width: 45rem;
     }
 }
+
