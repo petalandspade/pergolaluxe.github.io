@@ -556,7 +556,7 @@ footer a {
 
 @media (max-width: 50rem) {
   .grid-wrapper {
-    grid-template-columns: 80%
+    grid-template-columns: 80% 0;
     grid-template-rows: 5rem 7rem 30rem 20rem 13rem 41rem 10rem 10rem 30rem 13rem 47rem 16rem 53rem 
     15rem 47rem 13rem 30rem 30rem;
   }
