@@ -311,6 +311,7 @@ footer a {
     .grid-container {
         grid-template-columns: 30rem;
         grid-template-rows: 30rem 30rem 30rem 30rem;
+        margin-left: 30vw;
     }
 
     .faq1 {
@@ -347,7 +348,7 @@ footer a {
         position: relative;
         box-sizing: border-box;
         margin-top: 4rem;
-        margin-left: 5rem;
+        margin-left: 32vw;
         margin-bottom: 4rem;
         font-family: "raleway", sans-serif;
         text-align: center;
@@ -380,6 +381,7 @@ footer a {
     .grid-container {
         grid-template-columns: 30rem;
         grid-template-rows: 30rem 30rem 30rem 30rem;
+        margin-left: 30vw;
     }
 
     .faq1 {
@@ -416,7 +418,7 @@ footer a {
         position: relative;
         box-sizing: border-box;
         margin-top: 4rem;
-        margin-left: 5rem;
+        margin-left: 32vw;
         margin-bottom: 4rem;
         font-family: "raleway", sans-serif;
         text-align: center;
@@ -431,7 +433,7 @@ footer a {
 
 @media (max-width: 43rem) {
     .main-header {
-        width: 56rem;
+        width: 78rem;
     }
 
     #product-overview {
@@ -450,6 +452,7 @@ footer a {
     .grid-container {
         grid-template-columns: 30rem;
         grid-template-rows: 30rem 30rem 30rem 30rem;
+        margin-left: 45vw;
     }
 
     .faq1 {
@@ -486,14 +489,14 @@ footer a {
         position: relative;
         box-sizing: border-box;
         margin-top: 4rem;
-        margin-left: 5rem;
+        margin-left: 35vw;
         margin-bottom: 4rem;
         font-family: "raleway", sans-serif;
         text-align: center;
-        width: 28rem;
+        width: 40rem;
     }
 
     footer {
-        width: 56rem;
+        width: 78rem;
     }
 }
