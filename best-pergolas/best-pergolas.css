@@ -596,5 +596,129 @@ footer a {
     grid-row-end: 6;
   }
 
+  .purple-leaf-choice-info {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 6;
+    grid-row-end: 7;
+  }
 
+  .first-choice-div-pro {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 7;
+    grid-row-end: 8;
+  }
+
+  .purple-leaf-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 8;
+    grid-row-end: 9;
+  }
+
+  .second-choice-info {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 9;
+    grid-row-end: 10;
+  }
+
+  .backyard-discovery-div-pros {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 10;
+    grid-row-end: 11;
+  }
+
+  .backyard-discovery-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 11;
+    grid-row-end: 12;
+  }
+
+  .grid-box-5 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 12;
+    grid-row-end: 13;
+  }
+
+  .grid-box-6 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 13;
+    grid-row-end: 14;
+  }
+
+  .purple-leaf-louvered-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 14;
+    grid-row-end: 15;
+  }
+
+  .grid-box-8 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 15;
+    grid-row-end: 16;
+  }
+
+  .grid-box-9 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 16;
+    grid-row-end: 17;
+  }
+
+  .yardistry-gazebo-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 17;
+    grid-row-end: 18;
+  }
+
+  .grid-box-11 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 18;
+    grid-row-end: 19;
+  }
+
+  .grid-box-12 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 19;
+    grid-row-end: 20;
+  }
+
+  .yardistry-madison-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 20;
+    grid-row-end: 21;
+  }
+
+  .grid-box-14 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 21;
+    grid-row-end: 22;
+  }
+
+  .grid-box-15 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 22;
+    grid-row-end: 23;
+  }
+
+  .luxury-pergola-pro-photo-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 23;
+    grid-row-end: 24;
+  }
 }
