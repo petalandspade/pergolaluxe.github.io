@@ -153,3 +153,22 @@ footer a {
     text-align: center;
     margin-top: 2rem;
 }
+
+@media (max-width: 38rem) {
+    .main-header {
+        width: 39rem;
+    }
+
+    .faq-title {
+        width: 35rem;
+    }
+
+    .basic-paragraph {
+        width: 35rem;
+    }
+
+    footer {
+        width: 38rem;
+    }
+    
+}
