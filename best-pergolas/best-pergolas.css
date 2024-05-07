@@ -561,12 +561,16 @@ footer a {
     38rem 32rem 50rem 30rem 27rem;
   }
 
+  .main-header {
+    width: 40rem;
+  }
+
   .article-title {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
     grid-row-end: 2;
-    width: 37rem;
+    width: 34rem;
   }
 
   .intro-paragraph {
@@ -574,7 +578,7 @@ footer a {
     grid-column-end: 2;
     grid-row-start: 2;
     grid-row-end: 3;
-    width: 35rem;
+    width: 34rem;
   }
 
   .first-image-container {
@@ -582,7 +586,7 @@ footer a {
     grid-column-end: 2;
     grid-row-start: 3;
     grid-row-end: 4;
-    width: 35rem;
+    width: 34rem;
   }
 
   .first-image-container-info {
@@ -590,7 +594,7 @@ footer a {
     grid-column-end: 2;
     grid-row-start: 4;
     grid-row-end: 5;
-    width: 35rem;
+    width: 34rem;
     text-align: center;
   }
 
@@ -599,7 +603,7 @@ footer a {
     grid-column-end: 2;
     grid-row-start: 5;
     grid-row-end: 6;
-    width: 35rem;
+    width: 34rem;
   }
 
   .purple-leaf-choice-info {
@@ -607,7 +611,7 @@ footer a {
     grid-column-end: 2;
     grid-row-start: 6;
     grid-row-end: 7;
-    width: 35rem;
+    width: 34rem;
   }
 
   .first-choice-div-pros {
@@ -774,6 +778,10 @@ footer a {
     width: 35rem;
     height: 30rem;
     margin-left: 2rem;
+  }
+
+  footer {
+    width: 40rem;
   }
 }
 
