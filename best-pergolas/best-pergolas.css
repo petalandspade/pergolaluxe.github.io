@@ -353,6 +353,7 @@ li {
   width: 100%;
   vertical-align: top;
   height: 100%;
+  object-fit: contain;
 }
 
 .second-choice-info {
@@ -403,6 +404,7 @@ li {
   width: 100%;
   vertical-align: top;
   height: 30rem;
+  object-fit: contain;
 }
 
 .grid-box-5 {
@@ -441,6 +443,7 @@ li {
   width: 100%;
   vertical-align: top;
   height: 100%;
+  object-fit: contain;
 }
 
 .grid-box-8 {
@@ -473,6 +476,7 @@ li {
   width: 100%;
   vertical-align: top;
   height: 100%;
+  object-fit: contain;
 }
 
 .grid-box-11 {
@@ -505,6 +509,7 @@ li {
   width: 100%;
   vertical-align: top;
   height: 100%;
+  object-fit: contain;
 }
 
 .grid-box-14 {
@@ -537,6 +542,7 @@ li {
   width: 100%;
   vertical-align: top;
   height: 100%;
+  object-fit: contain;
 }
 
 footer {
