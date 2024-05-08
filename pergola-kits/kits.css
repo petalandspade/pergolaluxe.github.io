@@ -959,10 +959,11 @@ footer a {
   .wrapper {
     display: grid;
     grid-template-columns: 80% 0;
-    grid-template-rows: 4rem 3rem 22rem 22rem 22rem 22rem 22rem 22rem 3rem 3rem 22rem 22rem;
+    grid-template-rows: 15rem 3rem 22rem 22rem 22rem 22rem 22rem 22rem 3rem 3rem 22rem 22rem;
     margin-top:18rem;
     grid-column-gap: 20px;
     grid-row-gap: 5rem;
+    justify-content: center;
   }
 
   .box1 {
@@ -970,6 +971,7 @@ footer a {
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 2;
+    width: 60rem;
     }
 
   /*title*/
