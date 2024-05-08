@@ -940,3 +940,15 @@ footer a {
   text-align: center;
   margin-top: 2rem;
 }
+
+
+@media (max-width: 50rem) {
+  .wrapper {
+    display: grid;
+    grid-template-columns: 80% 0;
+    grid-template-rows: 4rem 3rem 22rem 22rem 22rem 22rem 22rem 22rem 3rem 3rem 22rem 22rem;
+    margin-top:18rem;
+    grid-column-gap: 20px;
+    grid-row-gap: 5rem;
+  }
+}
