@@ -353,6 +353,7 @@ li {
   vertical-align: top;
   height: 100%;
   object-fit: contain;
+  object-position: top;
 }
 
 .second-choice-info {
@@ -402,7 +403,8 @@ li {
   width: 100%;
   vertical-align: top;
   height: 30rem;
-  object-fit: contain;
+  object-fit: cover;
+  object-position: top;
 }
 
 .grid-box-5 {
@@ -441,6 +443,7 @@ li {
   vertical-align: top;
   height: 100%;
   object-fit: contain;
+  object-position: top;
 }
 
 .grid-box-8 {
@@ -473,6 +476,7 @@ li {
   vertical-align: top;
   height: 100%;
   object-fit: contain;
+  object-position: top;
 }
 
 .grid-box-11 {
@@ -505,6 +509,7 @@ li {
   vertical-align: top;
   height: 100%;
   object-fit: contain;
+  object-position: top;
 }
 
 .grid-box-14 {
@@ -537,6 +542,7 @@ li {
   vertical-align: top;
   height: 100%;
   object-fit: contain;
+  object-position: top;
 }
 
 footer {
@@ -555,7 +561,7 @@ footer a {
   margin-top: 2rem;
 }
 
-@media (max-width: 50rem) {
+@media (max-width: 55rem) {
   .grid-wrapper {
     grid-template-columns: 80% 0;
     grid-template-rows: 13rem 12rem 22rem 20rem 30rem 25rem 45rem 40rem 17rem 43rem 33rem 26rem 49rem 
