@@ -943,6 +943,19 @@ footer a {
 
 
 @media (max-width: 50rem) {
+
+  #background-video {
+    width: 65rem;
+    height: 70vh;
+    object-fit: cover;
+    /*position: fixed;*/
+    left: 1rem;
+    right: 0;
+    top: 10rem;
+    bottom: 0;
+    z-index: -1;
+  }
+
   .wrapper {
     display: grid;
     grid-template-columns: 80% 0;
