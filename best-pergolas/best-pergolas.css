@@ -342,7 +342,6 @@ li {
 .purple-leaf-photo-container {
   display: flex;
   vertical-align: middle;
-  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 6;
@@ -393,7 +392,6 @@ li {
 .backyard-discovery-photo-container {
   display: flex;
   vertical-align: middle;
-  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 8;
@@ -432,7 +430,6 @@ li {
 .purple-leaf-louvered-photo-container {
   display: flex;
   vertical-align: middle;
-  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 11;
@@ -465,7 +462,6 @@ li {
 .yardistry-gazebo-photo-container {
   display: flex;
   vertical-align: middle;
-  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 13;
@@ -498,7 +494,6 @@ li {
 .yardistry-madison-photo-container {
   display: flex;
   vertical-align: middle;
-  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 15;
@@ -531,7 +526,6 @@ li {
 .luxury-pergola-pro-photo-container {
   display: flex;
   vertical-align: middle;
-  box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.3);
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 17;
