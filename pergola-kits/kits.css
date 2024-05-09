@@ -959,7 +959,7 @@ footer a {
   .wrapper {
     display: grid;
     grid-template-columns: 80% 0;
-    grid-template-rows: 15rem 3rem 22rem 22rem 22rem 22rem 22rem 22rem 3rem 3rem 22rem 22rem;
+    grid-template-rows: 15rem 3rem 5rem 30rem 22rem 22rem 22rem 22rem 3rem 3rem 22rem 22rem;
     margin-top:18rem;
     grid-column-gap: 20px;
     grid-row-gap: 5rem;
@@ -980,6 +980,7 @@ footer a {
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 3;
+    width: 60rem;
   }
 
   /*selling points*/
@@ -988,23 +989,56 @@ footer a {
     grid-column-end: 3;
     grid-row-start: 3;
     grid-row-end: 4;
+    width: 60rem;
   }
       
   .box4 {
     grid-column-start: 1;
     grid-column-end: 3;
-    grid-row-start: 4;
-    grid-row-end: 5;
+    grid-row-start: 5;
+    grid-row-end: 6;
     background: white;
   }
 
   .box5 { /*flat top basic */
     grid-column-start: 1;
     grid-column-end: 3;
-    grid-row-start: 5;
-    grid-row-end: 6;
+    grid-row-start: 4;
+    grid-row-end: 5;
     font-family: 'raleway';
     display: flex;
+  }
+
+  .flat-top-title {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 4rem;
+    font-weight: 400;
+  }
+
+  .toja-price {
+    font-family: 'raleway';
+    font-weight: 400;
+    color:#DDE6ED;
+    font-size: 2rem;
+  }
+
+  .flat-top-subtitle {
+    font-weight: 300;
+    color:#DDE6ED;
+    font-size: 2.5rem;
+  }
+
+  .toja-pros {
+    font-family: 'raleway';
+    color:#DDE6ED;
+    font-size: 2rem;
+  }
+
+  .toja__feature {
+    font-family: 'raleway';
+    color: #9DB2BF;
+    font-size: 2rem;
   }
       
   .box6 { /*angled roof*/
