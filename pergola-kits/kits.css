@@ -959,7 +959,7 @@ footer a {
   .wrapper {
     display: grid;
     grid-template-columns: 80% 0;
-    grid-template-rows: 15rem 3rem 5rem 34rem 22rem 26rem 22rem 22rem 3rem 3rem 22rem 22rem;
+    grid-template-rows: 15rem 3rem 5rem 34rem 22rem 36rem 22rem 36rem 22rem 36rem 22rem 22rem;
     margin-top:18rem;
     grid-column-gap: 20px;
     grid-row-gap: 5rem;
@@ -1095,6 +1095,7 @@ footer a {
     font-size: 4rem;
     font-weight: 400;
     font-family: 'raleway';
+    margin: 0;
   }
 
   .toja-price {
@@ -1127,6 +1128,23 @@ footer a {
     width: 60rem;
   }
 
+  .peaked-roof-title {
+    display: flex;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'raleway';  
+    justify-content: flex-start;
+    text-align: left;
+    margin: 0;
+  }
+
+  .peaked-roof-subtitle {
+    font-weight: 300;
+    font-family: 'raleway';
+    color:#DDE6ED;
+    font-size: 2.5rem;
+  }
+
   .box11 {
     grid-column-start: 1;
     grid-column-end: 3;
@@ -1139,8 +1157,8 @@ footer a {
   .box12 {
     grid-column-start: 1;
     grid-column-end: 3;
-    grid-row-start: 12;
-    grid-row-end: 13;
+    grid-row-start: 13;
+    grid-row-end: 14;
     background-color: white;
     width: 60rem;
   }
@@ -1148,8 +1166,8 @@ footer a {
   .box13 { /*hexa*/
     grid-column-start: 1;
     grid-column-end: 3;
-    grid-row-start: 13;
-    grid-row-end: 14;
+    grid-row-start: 12;
+    grid-row-end: 13;
     width: 60rem;
   }
 
