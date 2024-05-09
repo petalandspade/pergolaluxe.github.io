@@ -959,7 +959,7 @@ footer a {
   .wrapper {
     display: grid;
     grid-template-columns: 80% 0;
-    grid-template-rows: 15rem 3rem 5rem 34rem 22rem 36rem 22rem 36rem 22rem 36rem 22rem 22rem;
+    grid-template-rows: 15rem 3rem 5rem 34rem 22rem 36rem 22rem 36rem 22rem 36rem 22rem 36rem 22rem 36rem;
     margin-top:18rem;
     grid-column-gap: 20px;
     grid-row-gap: 5rem;
@@ -1163,6 +1163,28 @@ footer a {
     width: 60rem;
   }
 
+  .hexa-title {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'raleway';
+    margin: 0;
+  }
+
+  .toja-price {
+    font-family: 'raleway';
+    font-weight: 400;
+    font-family: 'raleway';
+  }
+
+  .hexa-subtitle {
+    font-weight: 300;
+    font-family: 'raleway';
+    color:#DDE6ED;
+    font-size: 2.5rem;
+  }
+
   .box13 { /*hexa*/
     grid-column-start: 1;
     grid-column-end: 3;
@@ -1177,6 +1199,23 @@ footer a {
     grid-row-start: 14;
     grid-row-end: 15;
     width: 60rem;
+  }
+
+  .triangle-title {
+    display: flex;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'raleway';  
+    justify-content: flex-start;
+    text-align: left;
+    margin: 0;
+  }
+
+  .triangle-subtitle {
+    font-weight: 300;
+    font-family: 'raleway';
+    color:#DDE6ED;
+    font-size: 2.5rem;
   }
 
   .box15 {
