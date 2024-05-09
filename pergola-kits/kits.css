@@ -999,6 +999,7 @@ footer a {
     grid-row-start: 5;
     grid-row-end: 6;
     background: white;
+    width: 60rem;
   }
 
   .box5 { /*flat top basic */
@@ -1008,6 +1009,7 @@ footer a {
     grid-row-end: 5;
     font-family: 'raleway';
     display: flex;
+    width: 60rem;
   }
 
   .flat-top-title {
@@ -1050,6 +1052,7 @@ footer a {
     grid-row-end: 7;
     font-family: 'raleway';
     display: flex;
+    width: 60rem
   }
 
   .box7 {
@@ -1058,6 +1061,7 @@ footer a {
     grid-row-start: 7;
     grid-row-end: 8;
     background-color: white;
+    width: 60rem;
   }
 
   .box8 { /*wall pic*/
