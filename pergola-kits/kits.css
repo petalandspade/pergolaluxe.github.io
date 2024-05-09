@@ -959,7 +959,7 @@ footer a {
   .wrapper {
     display: grid;
     grid-template-columns: 80% 0;
-    grid-template-rows: 15rem 3rem 5rem 30rem 22rem 22rem 22rem 22rem 3rem 3rem 22rem 22rem;
+    grid-template-rows: 15rem 3rem 5rem 34rem 22rem 26rem 22rem 22rem 3rem 3rem 22rem 22rem;
     margin-top:18rem;
     grid-column-gap: 20px;
     grid-row-gap: 5rem;
@@ -1083,16 +1083,40 @@ footer a {
   .box8 { /*wall pic*/
     grid-column-start: 1;
     grid-column-end: 3;
-    grid-row-start: 8;
-    grid-row-end: 9;
+    grid-row-start: 9;
+    grid-row-end: 10;
     background: white;
+    width: 60rem;
   }
+
+  .wall-title {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'raleway';
+  }
+
+  .toja-price {
+    font-family: 'raleway';
+    font-weight: 400;
+    font-family: 'raleway';
+  }
+
+  .wall-subtitle {
+    font-weight: 300;
+    font-family: 'raleway';
+    color:#DDE6ED;
+    font-size: 2.5rem
+  }
+
 
   .box9 { /*wall*/
     grid-column-start: 1;
     grid-column-end: 3;
-    grid-row-start: 9;
-    grid-row-end: 10;
+    grid-row-start: 8;
+    grid-row-end: 9;
+    width: 60rem;
   }
    
   .box10 { 
@@ -1100,6 +1124,7 @@ footer a {
     grid-column-end: 3;
     grid-row-start: 10;
     grid-row-end: 11;
+    width: 60rem;
   }
 
   .box11 {
@@ -1108,6 +1133,7 @@ footer a {
     grid-row-start: 11;
     grid-row-end: 12;
     background-color: white;
+    width: 60rem;
   }
 
   .box12 {
@@ -1116,6 +1142,7 @@ footer a {
     grid-row-start: 12;
     grid-row-end: 13;
     background-color: white;
+    width: 60rem;
   }
 
   .box13 { /*hexa*/
@@ -1123,6 +1150,7 @@ footer a {
     grid-column-end: 3;
     grid-row-start: 13;
     grid-row-end: 14;
+    width: 60rem;
   }
 
   .box14 {
@@ -1130,6 +1158,7 @@ footer a {
     grid-column-end: 3;
     grid-row-start: 14;
     grid-row-end: 15;
+    width: 60rem;
   }
 
   .box15 {
@@ -1138,6 +1167,7 @@ footer a {
     grid-row-start: 15;
     grid-row-end: 16;
     background-color: white;
+    width: 60rem;
   }
     
   /*HD title*/
