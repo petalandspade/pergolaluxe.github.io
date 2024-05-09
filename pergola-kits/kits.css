@@ -981,6 +981,7 @@ footer a {
     grid-row-start: 2;
     grid-row-end: 3;
     width: 60rem;
+    font-size: 4rem;
   }
 
   /*selling points*/
@@ -1014,6 +1015,7 @@ footer a {
     display: flex;
     font-size: 4rem;
     font-weight: 400;
+    margin: 0;
   }
 
   .toja-price {
