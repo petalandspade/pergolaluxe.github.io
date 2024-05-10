@@ -1289,20 +1289,23 @@ grid-column-start: 1;
 grid-column-end: 3;
 grid-row-start: 20;
 grid-row-end: 21;
+width: 60rem;
 }
 
 .box21 {
   grid-column-start: 1;
   grid-column-end: 3;
-  grid-row-start: 21;
-  grid-row-end: 22;
+  grid-row-start: 22;
+  grid-row-end: 23;
+  width: 60rem;
 }
 
 .box22 { 
   grid-column-start: 1;
   grid-column-end: 3;
-  grid-row-start: 22;
-  grid-row-end: 23;
+  grid-row-start: 21;
+  grid-row-end: 22;
+  width: 60rem;
   }
   
   .box23 {
@@ -1310,6 +1313,7 @@ grid-row-end: 21;
     grid-column-end: 3;
     grid-row-start: 23;
     grid-row-end: 24;
+    width: 60rem;
   }
 
     /*lowes title*/
