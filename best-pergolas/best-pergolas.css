@@ -438,6 +438,18 @@ li {
   grid-row-end: 12;
 }
 
+h2 a {
+  color:#9DB2BF;
+}
+
+h2 a:active {
+  color:#9DB2BF;
+}
+
+h2 a:visited {
+  color:#9DB2BF;
+}
+
 .purple-leaf-louvered-photo {
   width: 100%;
   vertical-align: top;
