@@ -301,6 +301,7 @@ padding:0;
     display: flex;
     font-size: 2rem;
     font-weight: 400;
+    text-decoration: none;
   }
 
   h2 a:active {
@@ -308,6 +309,7 @@ padding:0;
     display: flex;
     font-size: 2rem;
     font-weight: 400;
+    text-decoration: none;
   }
 
   h2 a:visited {
@@ -315,6 +317,7 @@ padding:0;
     display: flex;
     font-size: 2rem;
     font-weight: 400;
+    text-decoration: none;
   }
 
   .toja-price {
@@ -1044,6 +1047,30 @@ footer a {
     font-size: 4rem;
     font-weight: 400;
     margin: 0;
+  }
+
+  h2 a {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 4rem;
+    font-weight: 400;
+    text-decoration: none;
+  }
+
+  h2 a:active {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 4rem;
+    font-weight: 400;
+    text-decoration: none;
+  }
+
+  h2 a:visited {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 4rem;
+    font-weight: 400;
+    text-decoration: none;
   }
 
   .toja-price {
