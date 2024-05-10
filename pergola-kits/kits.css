@@ -959,7 +959,8 @@ footer a {
   .wrapper {
     display: grid;
     grid-template-columns: 80% 0;
-    grid-template-rows: 15rem 3rem 5rem 34rem 22rem 36rem 22rem 36rem 22rem 36rem 22rem 32rem 22rem 30rem 22rem;
+    grid-template-rows: 15rem 3rem 5rem 34rem 22rem 36rem 22rem 36rem 22rem 36rem 22rem 32rem 
+    22rem 30rem 22rem 4rem 5rem;
     margin-top:18rem;
     grid-column-gap: 20px;
     grid-row-gap: 7rem;
@@ -1233,6 +1234,8 @@ footer a {
   grid-column-end: 3;
   grid-row-start: 16;
   grid-row-end: 17;
+  width: 60rem;
+  font-size: 4rem;
 }
 
 /*HD subtitle*/
@@ -1241,20 +1244,44 @@ footer a {
   grid-column-end: 3;
   grid-row-start: 17;
   grid-row-end: 18;
+  width: 60rem;
 }
 
 .box18 {
   grid-column-start: 1;
   grid-column-end: 3;
-  grid-row-start: 18;
-  grid-row-end: 19;
+  grid-row-start: 19;
+  grid-row-end: 18;
+  width: 60rem;
+}
+
+.cedar-title {
+  justify-content: flex-start;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  font-family: 'raleway';
+}
+
+.toja-price {
+  font-family: 'raleway';
+  font-weight: 400;
+  font-family: 'raleway';
+}
+
+.cedar-subtitle {
+  font-weight: 300;
+  font-family: 'raleway';
+  color:#DDE6ED;
+  font-size: 2.5rem;
 }
 
 .box19 {
 grid-column-start: 1;
 grid-column-end: 3;
-grid-row-start: 19;
-grid-row-end: 20;
+grid-row-start: 18;
+grid-row-end: 19;
+width: 60rem;
 }
 
 .box20 { 
