@@ -1282,6 +1282,7 @@ grid-column-end: 3;
 grid-row-start: 18;
 grid-row-end: 19;
 width: 60rem;
+margin: 0;
 }
 
 .box20 { 
@@ -1290,6 +1291,7 @@ grid-column-end: 3;
 grid-row-start: 20;
 grid-row-end: 21;
 width: 60rem;
+margin: 0;
 }
 
 .box21 {
@@ -1306,6 +1308,7 @@ width: 60rem;
   grid-row-start: 22;
   grid-row-end: 23;
   width: 60rem;
+  margin: 0;
   }
   
   .box23 {
@@ -1348,6 +1351,24 @@ width: 60rem;
   grid-row-start: 27;
   grid-row-end: 28;
   width: 60rem;
+  margin: 0;
+}
+
+.bjorn-title {
+  justify-content: flex-start;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  font-family: 'raleway';
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.bjorn-subtitle {
+  font-weight: 300;
+  font-family: 'raleway';
+  color: #DDE6ED;
+  font-size: 2.5rem;
 }
 
 .box28 {
@@ -1356,6 +1377,24 @@ width: 60rem;
   grid-row-start: 28;
   grid-row-end: 29;
   width: 60rem;
+  margin: 0;
+}
+
+.pylex-title {
+  justify-content: flex-start;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  font-family: 'raleway';
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.pylex-subtitle {
+  font-weight: 300;
+  font-family: 'raleway';
+  color:#DDE6ED;
+  font-size: 2.5rem;
 }
 
 .box29 {
