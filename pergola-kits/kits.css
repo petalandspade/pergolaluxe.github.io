@@ -1295,16 +1295,16 @@ width: 60rem;
 .box21 {
   grid-column-start: 1;
   grid-column-end: 3;
-  grid-row-start: 22;
-  grid-row-end: 23;
+  grid-row-start: 21;
+  grid-row-end: 22;
   width: 60rem;
 }
 
 .box22 { 
   grid-column-start: 1;
   grid-column-end: 3;
-  grid-row-start: 21;
-  grid-row-end: 22;
+  grid-row-start: 22;
+  grid-row-end: 23;
   width: 60rem;
   }
   
