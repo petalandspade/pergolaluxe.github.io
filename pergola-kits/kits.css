@@ -693,6 +693,7 @@ grid-row-end: 13;
   font-family: 'raleway';
   justify-content: flex-start;
   text-align: left;
+  margin: 0;
 }
 
 .toja-price {
@@ -753,6 +754,7 @@ grid-row-end: 13;
     font-family: 'raleway';
     justify-content: flex-start;
     text-align: left;
+    margin: 0;
   }
   
   .toja-price {
