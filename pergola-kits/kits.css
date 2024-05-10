@@ -296,6 +296,27 @@ padding:0;
     font-weight: 400;
   }
 
+  h2 a {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
+  h2 a:active {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
+  h2 a:visited {
+    justify-content: flex-start;
+    display: flex;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
   .toja-price {
     font-family: 'raleway';
     font-weight: 400;
