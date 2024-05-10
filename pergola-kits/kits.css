@@ -1340,16 +1340,16 @@ margin: 0;
 .box26 {
   grid-column-start: 1;
   grid-column-end: 3;
-  grid-row-start: 26;
-  grid-row-end: 27;
+  grid-row-start: 27;
+  grid-row-end: 28;
   width: 60rem;
 }
 
 .box27 {
   grid-column-start: 1;
   grid-column-end: 3;
-  grid-row-start: 27;
-  grid-row-end: 28;
+  grid-row-start: 26;
+  grid-row-end: 27;
   width: 60rem;
   margin: 0;
 }
