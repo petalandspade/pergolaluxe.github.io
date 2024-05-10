@@ -960,11 +960,15 @@ footer a {
     display: grid;
     grid-template-columns: 80% 0;
     grid-template-rows: 15rem 3rem 5rem 34rem 22rem 36rem 22rem 36rem 22rem 36rem 22rem 32rem 
-    22rem 30rem 22rem 4rem 5rem 36rem 22rem 39rem 22rem 42rem 22rem 4rem 5rem 36rem 22rem 36rem 22rem;
+    22rem 30rem 22rem 4rem 5rem 36rem 22rem 39rem 22rem 42rem 22rem 4rem 5rem 32rem 22rem 34rem 25rem;
     margin-top:18rem;
     grid-column-gap: 20px;
-    grid-row-gap: 7rem;
+    grid-row-gap: 6rem;
     justify-content: center;
+  }
+
+  .main-header {
+    width: 65rem;
   }
 
   .box1 {
@@ -1407,4 +1411,9 @@ margin: 0;
   grid-row-end: 30;
   width: 60rem;
 }
+
+footer {
+  width: 65rem;
+}
+
 }
