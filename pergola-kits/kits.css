@@ -960,7 +960,7 @@ footer a {
     display: grid;
     grid-template-columns: 80% 0;
     grid-template-rows: 15rem 3rem 5rem 34rem 22rem 36rem 22rem 36rem 22rem 36rem 22rem 32rem 
-    22rem 30rem 22rem 4rem 5rem;
+    22rem 30rem 22rem 4rem 5rem 36rem 22rem 39rem 22rem 42rem 22rem 4rem 5rem 36rem 22rem 36rem 22rem;
     margin-top:18rem;
     grid-column-gap: 20px;
     grid-row-gap: 7rem;
