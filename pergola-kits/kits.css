@@ -1322,6 +1322,7 @@ width: 60rem;
   grid-column-end: 3;
   grid-row-start: 24;
   grid-row-end: 25;
+  width: 60rem;
 }
 
 /*lowes subtitle*/
@@ -1330,6 +1331,7 @@ width: 60rem;
   grid-column-end: 3;
   grid-row-start: 25;
   grid-row-end: 26;
+  width: 60rem;
 }
 
 .box26 {
@@ -1337,6 +1339,7 @@ width: 60rem;
   grid-column-end: 3;
   grid-row-start: 26;
   grid-row-end: 27;
+  width: 60rem;
 }
 
 .box27 {
@@ -1344,6 +1347,7 @@ width: 60rem;
   grid-column-end: 3;
   grid-row-start: 27;
   grid-row-end: 28;
+  width: 60rem;
 }
 
 .box28 {
@@ -1351,6 +1355,7 @@ width: 60rem;
   grid-column-end: 3;
   grid-row-start: 28;
   grid-row-end: 29;
+  width: 60rem;
 }
 
 .box29 {
@@ -1358,5 +1363,6 @@ width: 60rem;
   grid-column-end: 3;
   grid-row-start: 29;
   grid-row-end: 30;
+  width: 60rem;
 }
 }
